@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+<h1>{{page.title}}</h1>
+<p>Hello World</p>
 ---
 
 # Welcome
