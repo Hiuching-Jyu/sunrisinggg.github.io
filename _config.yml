@@ -9,6 +9,7 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://taylantatli.github.io/Moon
+paginate:           5
 
 # Jekyll
 permalink:          /:title/
