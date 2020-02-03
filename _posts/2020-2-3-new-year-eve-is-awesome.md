@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-<h1>{{page.title}}</h1>
-<p>Hello World</p>
+excerpt: "this is my first Jekyll blog post."
+tags: [sample post, images, test]
 ---
+
 
 # Welcome
 
