@@ -3,7 +3,7 @@ layout: post
 title: "myACCA-note"
 date: 2020-2-3
 excerpt: "It is only a text, never mind."
-tags: [sample post, images, test]
+tags: [Notes,ACCA]
 comments: true
 ---
 
