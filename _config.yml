@@ -5,7 +5,7 @@ description:        "I am sunrise, shall I touch you"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/my_photo.jpg'
+background:         'assets/img/FY_XJTLU.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://sunrisinggg.github.io
