@@ -30,6 +30,8 @@ a human is holding a sun-rising ceremony for his own life.
   
    It is a  poem adapted by SRCharlotte from Kailing Wang's prose "精神明亮的人".
 
+<img src="assets/img/sunrise.jpg" />
+
 ## How does the blog work?
 There are two modules --- "Somniloquys" and "My Note" now. 
 The former one is for some daily thoughts and the latter one is for study notes.
