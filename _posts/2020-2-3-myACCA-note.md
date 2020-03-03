@@ -8,19 +8,16 @@ project: true
 comments: true
 ---
 
-### Chapter 2 The regulatory framework ---Note By SRCharlotte
+# Chapter 2 The regulatory framework ---Note By SRCharlotte
 
-
-##  Introduction
-
+###  Introduction
 <br> ○ Financial statements need to show true and fair view &emsp; 
 <br> ○ Organizations related to the standard&emsp; 
 <br> &nbsp;  § IFRS--International Financial Reporting Standard  国际财务报告准则（也正是ACCA采用的准则，使用国家包括：英、欧、澳、加、新、南非）&emsp; 
 <br> &nbsp;  § US GAAP-Generally Accepted Accounting Principle &emsp; 
 <br> &nbsp;  § CAS--China Accounting Standard 中国会计准则（趋同于IFRS)&emsp; 
 
-## Regulatory system
-	
+### Regulatory system
 <br> ○ IFRSF (International Financial Reporting Standard Foundation)&emsp; 
 <br> &nbsp;  § 一个非盈利的私人的为公共服务的组织 &emsp; 
 <br> &nbsp;  § 它的委托人 trustee&emsp; 
