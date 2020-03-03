@@ -37,9 +37,9 @@ It is a poem adapted by SRCharlotte from Kailing Wang's prose "精神明亮的�
 
 ## 2. How does the blog work?
 <br>There are two modules --- "Somniloquys" and "My Note" now. 
-<br>The former one is for some daily thoughts and the latter one is for study notes.
+<br>The former one is for some daily thoughts （I am not sure whether they will be accepted, so I would like to say them in the form of somnlioquy )and the latter one is for study notes.
 <br>"My Note" module is currently open to 'Deep-learning','ACCA','GODOT'projects,
-<br>I believe the listed projects will be open sonn:'CPP program''C program ','Python','Stm32','Robotics'
+<br>I believe the listed projects will be open soon:'CPP program''C program ','Python','Stm32','Robotics'
 
 ## 3. What new function will be added?
 <br>1.Comment area for customers (I am now searching for a free comment plug-in)
