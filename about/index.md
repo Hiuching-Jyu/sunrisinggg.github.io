@@ -9,8 +9,8 @@ comments: false
 
 # About Sunrise
 
-## Poem (Foreword)
-<font color=#FF7F50 size=3> Greeting The Sunrise </font>
+## * Poem (Foreword)
+<font color=#FF7F50 size=3>Greeting The Sunrise</font>
 <br>Greeting the sunrise,
 <br>it is not only a kind of sensual joviality,
 <br>but a kind of spiritual experience;
@@ -33,13 +33,13 @@ It is a  poem adapted by SRCharlotte from Kailing Wang's prose "精神明亮的�
 
 ![avatar](D:/GITHUB/sunrisinggg.github.io/assets/imgassets/img/sunrise.jpg)
 
-## How does the blog work?
+## * How does the blog work?
 <br>There are two modules --- "Somniloquys" and "My Note" now. 
 <br>The former one is for some daily thoughts and the latter one is for study notes.
 <br>"My Note" module is currently open to 'Deep-learning','ACCA','GODOT'projects,
 <br>I believe the listed projects will be open sonn:'CPP program''C program ','Python','Stm32','Robotics'
 
-## What new function will be added?
+## * What new function will be added?
 <br>1.Comment area for customers (I am now searching for a free comment plug-in)
 <br>2.The timeline of the article
 <br>3.......
