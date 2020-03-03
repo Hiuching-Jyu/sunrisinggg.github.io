@@ -13,7 +13,7 @@ comments: false
 ## 1. Poem (Foreword)
 
 <center>Greeting The <b>Sunrise</b> </center>
-<br>Greeting the sunrise,
+Greeting the sunrise,
 <br>it is not only a kind of sensual joviality,
 <br>but a kind of spiritual experience;
 <br>it is not only a human's reading of nature,
@@ -33,7 +33,7 @@ comments: false
 It is a poem adapted by SRCharlotte from Kailing Wang's prose "精神明亮的人".
 ```
 
-![poem](https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets/img/sunrise.jpg)
+![poem](http://note.youdao.com/noteshare?id=0c08b4cf195a7ef28b60754bc03dba1a)
 
 ## 2. How does the blog work?
 <br>There are two modules --- "Somniloquys" and "My Note" now. 
