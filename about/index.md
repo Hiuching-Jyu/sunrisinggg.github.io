@@ -31,7 +31,7 @@ Greeting the sunrise,
 <br>a human is holding a sun-rising ceremony for his own life.
 
 ```
-It is a poem adapted by SRCharlotte from Kailing Wang's prose "精神明亮的人".
+It is a poem adapted by me from Kailing Wang's prose "精神明亮的人".
 ```
 
 ![poem](http://note.youdao.com/noteshare?id=0c08b4cf195a7ef28b60754bc03dba1a)
