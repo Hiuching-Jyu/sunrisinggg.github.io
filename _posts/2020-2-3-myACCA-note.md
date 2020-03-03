@@ -8,6 +8,9 @@ project: true
 ---
 
 # Chapter 2 The regulatory framework ---Note By SRCharlotte
+```
+Temporary notes, just for test.
+``
 
 ###  Introduction
 <br> ○ Financial statements need to show true and fair view &emsp; 
