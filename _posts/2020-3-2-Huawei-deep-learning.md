@@ -4,6 +4,7 @@ title: "Huawei -deep-learning"
 date: 2020-3-2
 excerpt: "The neural network of deep learning used to realize spot recognition"
 tags: [Notes,Deep-learning]
+project: ture
 comments: true
 ---
 #### 华为云---深度学习之构建神经网络实现景区识别

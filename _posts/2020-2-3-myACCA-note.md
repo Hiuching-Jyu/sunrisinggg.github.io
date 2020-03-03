@@ -1,19 +1,25 @@
 ---
 layout: post
-title: "myACCA-note"
+title: "ACCA-F3-Chapter 2 "
 date: 2020-2-3
-excerpt: "It is only a text, never mind."
+excerpt: "The regulatory framework"
 tags: [Notes,ACCA]
+project: true
 comments: true
 ---
 
-	• Introduction
+### Chapter 2 The regulatory framework ---Note By SRCharlotte
+
+
+	##  Introduction
+
 		○ Financial statements need to show true and fair view
 		○ Organizations related to the standard
 			§ IFRS--International Financial Reporting Standard  国际财务报告准则（也正是ACCA采用的准则，使用国家包括：英、欧、澳、加、新、南非）
 			§ US GAAP-Generally Accepted Accounting Principle 
 			§ CAS--China Accounting Standard 中国会计准则（趋同于IFRS)
-	• Regulatory system
+
+	## Regulatory system
 	
 		○ IFRSF (International Financial Reporting Standard Foundation)
 			§ 一个非盈利的私人的为公共服务的组织 
