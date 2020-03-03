@@ -1,4 +1,3 @@
-<script type="text/javascript" src="http://tajs.qq.com/stats?sId=66526224" charset="UTF-8"></script>
 ---
 layout: post
 title: "ACCA-F3-Chapter 2 "
@@ -7,6 +6,7 @@ excerpt: "The regulatory framework"
 tags: [Notes,ACCA]
 project: true
 ---
+<script type="text/javascript" src="http://tajs.qq.com/stats?sId=66526224" charset="UTF-8"></script>
 
 # Chapter 2 The regulatory framework ---Note By SRCharlotte
 ```
