@@ -28,10 +28,10 @@ comments: false
 <br>a human is holding a sun-rising ceremony for his own life.
 
 ```
-It is a  poem adapted by SRCharlotte from Kailing Wang's prose "精神明亮的人".
+It is a poem adapted by SRCharlotte from Kailing Wang's prose "精神明亮的人".
 ```
 
-![avatar](https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets/img/sunrise.jpg)
+![poem](https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets/img/sunrise.jpg)
 
 ## How does the blog work?
 <br>There are two modules --- "Somniloquys" and "My Note" now. 
