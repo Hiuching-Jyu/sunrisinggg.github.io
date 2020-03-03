@@ -2,7 +2,7 @@
 layout: post
 title: "Where is my island?"
 date: 2020-2-3
-excerpt: "Was it loss in my childhood?"
+excerpt: "Was it lost in my childhood?"
 tags: [jottings]
 ---
 

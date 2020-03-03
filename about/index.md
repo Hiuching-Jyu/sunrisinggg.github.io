@@ -10,7 +10,7 @@ comments: false
 # About Sunrise
 
 ## Poem (Foreword)
-#### <font color=#FF7F50> Greeting The Sunrise </font>
+<font color=#FF7F50 size=3> Greeting The Sunrise </font>
 <br>Greeting the sunrise,
 <br>it is not only a kind of sensual joviality,
 <br>but a kind of spiritual experience;
@@ -31,7 +31,7 @@ comments: false
 It is a  poem adapted by SRCharlotte from Kailing Wang's prose "精神明亮的人".
 ```
 
-![avatar](assets/img/sunrise.jpg)
+![avatar](D:/GITHUB/sunrisinggg.github.io/assets/imgassets/img/sunrise.jpg)
 
 ## How does the blog work?
 <br>There are two modules --- "Somniloquys" and "My Note" now. 
