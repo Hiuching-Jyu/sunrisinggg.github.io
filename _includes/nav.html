@@ -45,7 +45,7 @@
                     </li>{% endif %}
                     {% if site.github-url %}
                     <li>
-                        <a href="https://github.com/SUNRISINGGG/ {{ site.github-url }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-github"></i> Github</a>
+                        <a href="https://github.com/SUNRISINGGG {{ site.github-url }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-github"></i> Github</a>
                     </li>{% endif %}
                     {% if site.stackoverflow %}
                     <li>
@@ -109,12 +109,8 @@
                     </li>{% endif %}
                 </ul><!-- /.dl-submenu -->
             </li>
-            <li>
-                <a href="#">Posts</a>
-                <ul class="dl-submenu">
-                    <li><a href="{{ site.url }}/posts/">All Posts</a></li>
-                </ul>
-            </li>
+            <li><a href="{{ site.url }}/posts/">Somniloquys</a></li>
+            <li><a href="{{ site.url }}/projects/">My Notes</a></li>
             <li><a href="{{ site.url }}/tags/">Taglib</a></li>
             {% for link in site.data.navigation %}
             {% if link.url contains 'http' %}
@@ -124,5 +120,5 @@
             {% endif %}
             <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer" {% endif %}>{{ link.title }}</a></li>
             {% endfor %}
-            </ul><!-- /.dl-menu -->
+        </ul><!-- /.dl-menu -->
 </nav><!-- /.dl-menuwrapper -->
