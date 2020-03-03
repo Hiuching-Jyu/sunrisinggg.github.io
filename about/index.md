@@ -12,8 +12,7 @@ comments: false
 
 ## 1. Poem (Foreword)
 
-<font color="orange" size=3>Greeting The Sunrise</font>
-
+#### Greeting The Sunrise
 <br>Greeting the sunrise,
 <br>it is not only a kind of sensual joviality,
 <br>but a kind of spiritual experience;
