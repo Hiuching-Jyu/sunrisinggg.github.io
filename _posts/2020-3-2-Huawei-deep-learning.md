@@ -5,10 +5,8 @@ date: 2020-3-2
 excerpt: "The neural network of deep learning used to realize spot recognition"
 tags: [Notes,Deep-learning]
 project: true
-<script type="text/javascript" src="http://tajs.qq.com/stats?sId=66526224" charset="UTF-8"></script>
 ---
-
-
+<script type="text/javascript" src="http://tajs.qq.com/stats?sId=66526224" charset="UTF-8"></script>
 
 ##  深度学习之构建神经网络实现景区识别
 
