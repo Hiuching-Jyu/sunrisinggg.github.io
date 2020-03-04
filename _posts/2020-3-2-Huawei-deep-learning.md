@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://tajs.qq.com/stats?sId=66526224" charset="UTF-8"></script>
+
 ---
 layout: post
 title: "Deep-learning"
@@ -6,7 +8,7 @@ excerpt: "The neural network of deep learning used to realize spot recognition"
 tags: [Notes,Deep-learning]
 project: true
 ---
-<script type="text/javascript" src="http://tajs.qq.com/stats?sId=66526224" charset="UTF-8"></script>
+
 
 ##  深度学习之构建神经网络实现景区识别
 
