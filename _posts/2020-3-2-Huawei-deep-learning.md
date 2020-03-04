@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Huawei -deep-learning"
+title: "Deep-learning"
 date: 2020-3-2
 excerpt: "The neural network of deep learning used to realize spot recognition"
 tags: [Notes,Deep-learning]
@@ -8,7 +8,7 @@ project: true
 ---
 <script type="text/javascript" src="http://tajs.qq.com/stats?sId=66526224" charset="UTF-8"></script>
 
-##  华为云---深度学习之构建神经网络实现景区识别
+##  深度学习之构建神经网络实现景区识别
 
 ####  图像预处理
 <br>
@@ -24,11 +24,11 @@ project: true
 <br>
 • 输入图像-卷积层对图像处理--生成多个feature map--池化层对FM进行缩减，减少计算量，防止过拟合，再次卷积，再次提取特征，再次池化--平坦层，把二维矩阵变成一维向量
 <br>
-• 卷积层和池化层都是在二维空间进行，在全连接层使用一维数据，需要加入
+• 卷积层和池化层都是在二维空间进行，在全连接层使用一维数据
 <br>
 • softmax输出层，神经网络中都是数字，但是输出是向量，softmax把数字转换为概率，转换为标识类别的向量，右边的数值加起来等于一，取最大的，类别都是由字符串组成
 <br>
-• 独热编码，one-hot encoding，1所在的位置是有效的，用响亮准确标示类别
+• 独热编码，one-hot encoding，1所在的位置是有效的，用向量准确标示类别
 <br>
 • 卷积神经网络结构-正则化层-防止过拟合-即学过的事物可以很好地分辨，但遇到新事物就表现的很差
 <br>
@@ -36,7 +36,7 @@ project: true
 <br>
 &nbsp;  &nbsp; &nbsp; § dropout随机扔掉一些神经元和特征
 <br>
-&nbsp;  &nbsp; &nbsp; § L1L1正则化 限制模型复杂度
+&nbsp;  &nbsp; &nbsp; § L1正则化 限制模型复杂度
 <br>
 &nbsp;  &nbsp; &nbsp; § 提前停止训练，模型正在学习特征，但还没到过拟合的程度就停止了学习
 <br>
