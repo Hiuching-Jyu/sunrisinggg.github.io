@@ -27,7 +27,17 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   Sunrisinggg
+comment:
+    disqus: false
+    disqus_url: 'https://sunrisinggg.disqus.com/embed.js'
+    gitalk: true
+    gitalk_clientID: 2304e4d588a25206624b
+    gitalk_Secret: ea73699ad304f0a403bcf89a11d96112849e4c0a
+    gitalk_repo: 'sunrisinggg.github.io'
+    gitalk_owner: 'SUNRISINGGG'
+    gitalk_admin: 'SUNRISINGGG'
+    distractionFreeMode: true
+
 
 # Social
 # if you don't have any of social below, comment the line.
