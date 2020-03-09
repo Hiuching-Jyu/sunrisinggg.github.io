@@ -60,6 +60,7 @@ layout: compress
     <!-- MathJax -->
     <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     {% endif %}
+
     {% if site.comments.gitalk %}
     <script>
         var gitalk = new Gitalk({
@@ -72,7 +73,7 @@ layout: compress
             distractionFreeMode: '{{ site.comments.distractionFreeMode }}'  // Facebook-like distraction free mode
             })
             gitalk.render('disqus_thread')
-        </script>
+     </script>
     {% endif %}
 </body>
 </html>
