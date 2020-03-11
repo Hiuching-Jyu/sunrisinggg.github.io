@@ -27,8 +27,6 @@ sass:
   style:            compressed
 
 # Comments
-staticman:
-    branch: "master"
 comments:
     disqus: false
     disqus_url: 'https://sunrisinggg.disqus.com/embed.js'
