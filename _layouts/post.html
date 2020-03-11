@@ -48,6 +48,7 @@ layout: compress
                 {{ content }}
                 <div class="entry-meta">
                     {% include meta.html %}
+                    {% include _comments.html %}
                 </div>
             </div>
         </div>
@@ -60,4 +61,4 @@ layout: compress
     {% endif %}
 </body>
 </html>
-{% include gitalk.html %} 
+
