@@ -50,6 +50,20 @@ layout: compress
                     {% include meta.html %}
                     {% include comments.html %}
                 </div>
+                <div id="gitmentContainer"></div>
+                <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+                <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+                <script>
+                    var gitment = new Gitment({
+                        owner: 'SUNRISINGGG',
+                        repo: 'sunrisinggg.github.io',
+                        oauth: {
+                            client_id: '2304e4d588a25206624b',
+                            client_secret: 'ea73699ad304f0a403bcf89a11d96112849e4c0a',
+                        },
+                    });
+                    gitment.render('gitmentContainer');
+                </script>
             </div>
         </div>
         {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
