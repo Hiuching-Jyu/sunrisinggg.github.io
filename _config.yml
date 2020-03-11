@@ -27,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-comment:
+comments:
     disqus: false
     disqus_url: 'https://sunrisinggg.disqus.com/embed.js'
     gitalk: true
