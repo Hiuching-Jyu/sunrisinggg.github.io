@@ -47,6 +47,7 @@ layout: compress
                 </div>
                 {{ content }}
                 <div class="entry-meta">
+                    {% include _comments.html %}
                     {% include meta.html %}
                 </div>
             </div>
@@ -57,7 +58,6 @@ layout: compress
     {% if site.mathjax == true %}
     <!-- MathJax -->
     <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-    {% include _comments.html %}
     {% endif %}
 </body>
 </html>
