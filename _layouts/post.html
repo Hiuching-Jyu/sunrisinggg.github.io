@@ -47,8 +47,17 @@ layout: compress
                 </div>
                 {{ content }}
                 <div class="entry-meta">
-                    {% include _comments.html %}
                     {% include meta.html %}
+                </div>
+                <div class="comment">
+                    <script src="https://utteranc.es/client.js"
+                            repo="SUNRISINGGG/sunrisinggg.github.io"
+                            issue-term="pathname"
+                            theme="github-light"
+                            crossorigin="anonymous"
+                            async>
+                    </script>
+
                 </div>
             </div>
         </div>
@@ -60,5 +69,6 @@ layout: compress
     <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     {% endif %}
 </body>
+
 </html>
 
