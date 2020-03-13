@@ -12,8 +12,8 @@
         repo: 'sunrisinggg.github.io',
         owner: 'SUNRISINGGG',
         admin: ['SUNRISINGGG'],
-        // id: md5(location.pathname),
-        id: '{{ page.title }}',
+        id: md5(location.pathname),
+        //id: '{{ page.title }}',
     });
     gitalk.render('gitalk-container');
 </script>
