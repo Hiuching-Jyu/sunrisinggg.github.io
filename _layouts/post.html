@@ -48,21 +48,14 @@ layout: compress
                 {{ content }}
                 <div class="entry-meta">
                     {% include meta.html %}
+                    <script src="https://utteranc.es/client.js"
+                    repo="SUNRISINGGG/sunrisinggg.github.io"
+                    issue-term="pathname"
+                    theme="github-light"
+                    crossorigin="anonymous"
+                    async>
+                    </script>
                 </div>
-                <div id=‘gitmentContainer’></div>
-                <link rel="stylesheet" href="https://jjeejj.github.io/css/gitment.css">
-                <script src="https://jjeejj.github.io/js/gitment.js"></script>
-                <script>
-                    var gitment = new Gitment({
-                        owner: 'SUNRISINGGG',
-                        repo: 'sunrisinggg.github.io',
-                        oauth: {
-                            client_id: '2304e4d588a25206624b',
-                            client_secret: 'ea73699ad304f0a403bcf89a11d96112849e4c0a',
-                        },
-                    });
-                    gitment.render('gitmentContainer');
-                </script>
             </div>
         </div>
         {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
