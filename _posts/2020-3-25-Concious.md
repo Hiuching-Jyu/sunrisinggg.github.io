@@ -14,8 +14,9 @@ comments: true
 
 这句话标粗的地方是我改动的地方，或许*WESTWORD*已经暴露了一部分随笔的内容，但既然言之随笔，则不会囿于该剧。在某种层面上，我应该感谢这个疫情给我带来了gap monthes，让我有勉强够（却永远无法满足）的时间去接近迷宫中心的自己。
 
-![Alt text](http://note.youdao.com/noteshare?id=d1df0dc5bd363056d76ae193576546da "WESTWORLD")
-
+![Alt text](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/1.jpg "WESTWORLD")
+![Alt text](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/2.jpg "WESTWORLD")
+![Alt text](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/3.jpg "WESTWORLD")
 在西部世界中，以Dolores为代表的人工智能们，被“人类”用**“二分心智”**[^1]的社会方式控制着，“人类”的声音在他们“用于聆听和遵循”的脑区环绕。而当人工智能们遵循这部分指令时，是处于一种“无意识”状态---没有确切意识体验并无法交代为什么某个人做了某事。事实上，这种”二分心智“在人类史上，以神和宗教的形式存在着，人类文明进化至今，”二分心智“这种控制方式不再适应，它应该由人类自主的思考意识代替。**你现在明白了吗？迷宫的中心代表着什么？你应该让自己听见谁的声音？**
 
 ![Alt text](http://note.youdao.com/noteshare?id=eb4f5779a4ad8e2e307bf52089f0f5a2 "二分心智")
