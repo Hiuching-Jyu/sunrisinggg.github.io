@@ -17,7 +17,7 @@ comments: true
 ![Alt text](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/1.jpg "WESTWORLD")
 ![Alt text](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/2.jpg "WESTWORLD")
 ![Alt text](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/3.jpg "WESTWORLD")
-在西部世界中，以Dolores为代表的人工智能们，被“人类”用**“二分心智”**[^1]的社会方式控制着，“人类”的声音在他们“用于聆听和遵循”的脑区环绕。而当人工智能们遵循这部分指令时，是处于一种“无意识”状态---没有确切意识体验并无法交代为什么某个人做了某事。事实上，这种”二分心智“在人类史上，以神和宗教的形式存在着，人类文明进化至今，”二分心智“这种控制方式不再适应，它应该由人类自主的思考意识代替。**你现在明白了吗？迷宫的中心代表着什么？你应该让自己听见谁的声音？**
+在西部世界中，以Dolores为代表的人工智能们，被“人类”用**“二分心智”**[1]的社会方式控制着，“人类”的声音在他们“用于聆听和遵循”的脑区环绕。而当人工智能们遵循这部分指令时，是处于一种“无意识”状态---没有确切意识体验并无法交代为什么某个人做了某事。事实上，这种”二分心智“在人类史上，以神和宗教的形式存在着，人类文明进化至今，”二分心智“这种控制方式不再适应，它应该由人类自主的思考意识代替。**你现在明白了吗？迷宫的中心代表着什么？你应该让自己听见谁的声音？**
 
 ![Alt text](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/4.jpg "二分心智")
 <font size="1" face="黑体">[1]:Bicameralism (the philosophy of "two-chamberedness") is a hypothesis in psychology that argues that the human mind once assumed a state in which cognitive functions were divided between one part of the brain which appears to be "speaking", and a second part which listens and obeys—a bicameral mind. Bicameralism (“两个腔室”的理论)是一个心理学上的假设，心理学领域认为，人的大脑，曾被描述为一个整体，在其里面，认知功能被划分成介于“用于说话的脑区”和“用于聆听和遵循的脑区”之间，即“二元脑”或“二分心智”。[英文原文：维基百科。翻译：YX.W（知乎用户)]</font>
