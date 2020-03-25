@@ -34,7 +34,7 @@ Greeting the sunrise,
 It is a poem adapted by me from Kailing Wang's prose "精神明亮的人".
 ```
 
-![poem](http://note.youdao.com/noteshare?id=0c08b4cf195a7ef28b60754bc03dba1a)
+![poem](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/sunrise.jpg"poem")
 
 ## 2. How does the blog work?
 <br>There are two modules --- "Somniloquys" and "My Note" now. 

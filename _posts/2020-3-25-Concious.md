@@ -19,7 +19,7 @@ comments: true
 ![Alt text](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/3.jpg "WESTWORLD")
 在西部世界中，以Dolores为代表的人工智能们，被“人类”用**“二分心智”**[^1]的社会方式控制着，“人类”的声音在他们“用于聆听和遵循”的脑区环绕。而当人工智能们遵循这部分指令时，是处于一种“无意识”状态---没有确切意识体验并无法交代为什么某个人做了某事。事实上，这种”二分心智“在人类史上，以神和宗教的形式存在着，人类文明进化至今，”二分心智“这种控制方式不再适应，它应该由人类自主的思考意识代替。**你现在明白了吗？迷宫的中心代表着什么？你应该让自己听见谁的声音？**
 
-![Alt text](http://note.youdao.com/noteshare?id=eb4f5779a4ad8e2e307bf52089f0f5a2 "二分心智")
+![Alt text](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/4.jpg "二分心智")
 <font size="1" face="黑体">[1]:Bicameralism (the philosophy of "two-chamberedness") is a hypothesis in psychology that argues that the human mind once assumed a state in which cognitive functions were divided between one part of the brain which appears to be "speaking", and a second part which listens and obeys—a bicameral mind. Bicameralism (“两个腔室”的理论)是一个心理学上的假设，心理学领域认为，人的大脑，曾被描述为一个整体，在其里面，认知功能被划分成介于“用于说话的脑区”和“用于聆听和遵循的脑区”之间，即“二元脑”或“二分心智”。[英文原文：维基百科。翻译：YX.W（知乎用户)]</font>
 
 
@@ -27,7 +27,7 @@ comments: true
 
 2017年3月18日，我开始对大脑塑造的世界和现实世界产生怀疑，这种强烈的冲击让我难以接受，甚至感到崩溃。在图书馆不断拆封新图书贴标签的时候，并没有想到那本书--《虚拟现实--从阿凡达到永生》会给我带来莫大的影响。其实Avantars是“神使，化身”的意思。Anyway，详细讨论这本书的标题和全部内容并没有必要，我当初仅仅将第一章看了两次就已经承受不住了，我担心看下去我将会因此上不了学（事实上，在找到安抚自己的药剂前，我确实无心上学）。
 
-![Alt text]( http://note.youdao.com/noteshare?id=d01401f57d4c18232057336e6a62547f "《Infinite Reality --Avatars, Eternal Life, New Worlds, and the Dawn of the Virtual Revolution》")
+![Alt text]( https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/5.jpg "《Infinite Reality --Avatars, Eternal Life, New Worlds, and the Dawn of the Virtual Revolution》")
 
 该书在第一节说到：“真实是我们大脑的产物，是一个由持续的感知流所构成的，持续变化的程序。”“头脑决定认知是否真实。”此前，我无意识地相信感官所及，相信身边人和其他给我带来的影响，从未单纯思考过自己大脑能否对感官进行塑造。在初三中考语文时，我仍愿意在提笔写作文前竭力从窗外的树的本体中发现些什么，40公里的徒步中感受脚部真实的浮肿与疼痛，我一直在用“身”感受周围的事物。直到那一周高强度的足球队训练和比赛+月测+班级值周+40公里徒步（特别是还发生了不小心把受伤的dear Lin抛下的令人痛心的错误），真正歇下来那一刻，我耗尽了“身”的大部分力量，却因为受到这本书的冲击而不敢相信“脑”的力量，使我感觉不到自己的真实存在。我无法想到其他的解决办法，但我知道图书馆那堆书里边会有我想要的答案。接下来的几个星期，我病急乱投医，拼命往图书馆跑，拿下一本本书翻看，整篇整篇地摘抄，让我了解到了“专注当下”的魅力，“以存在过程对付未知的绝境”的窍门。这些篇章为我拼凑起不成熟的应对方案，可以说是能稳住我的一剂良药，但这样做并不能根治我“难辨虚实”的问题。
 
