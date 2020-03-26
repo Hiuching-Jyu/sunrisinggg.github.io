@@ -8,8 +8,8 @@ comments: true
 feature: https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Dleloris.jpg
 ---
 
-
-# A. 引子
+<font size="1" face="黑体">Tips: 移动端横屏阅读效果更佳</font>
+# A. 西部世界
 
 >"One man's life or death were but a small price to pay for the acquirement of **self-consciousness** which I sought; for the dominion I should acquire and transmit over **myself**."----Adapted by me from  *WESTWORLD*
 
