@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Individual Consciousnesses"
+title: "Individual Consciousnesses（调试中）"
 date: 2020-3-25
 excerpt: "About the Westworld, Avatars, and Self-consciousness. "
 tags: [jottings, AI]

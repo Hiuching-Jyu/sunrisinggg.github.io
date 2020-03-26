@@ -8,7 +8,7 @@ comments: true
 project: true
 ---
 
-
+<font size="1" face="黑体">Tips: 移动端横屏阅读可显示图片</font>
 # 被讨厌的勇气：“自我启发之父”阿德勒的哲学课
 岸见一郎 古贺史健
 
