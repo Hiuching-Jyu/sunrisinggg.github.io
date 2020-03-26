@@ -14,10 +14,10 @@ comments: true
 
 这句话标粗的地方是我改动的地方，或许*WESTWORLD*已经暴露了一部分随笔的内容，但既然言之随笔，则不会囿于该剧。在某种层面上，我应该感谢这个疫情给我带来了gap monthes，让我有勉强够（却永远无法满足）的时间去接近迷宫中心的自己。
 
-![WESTWORLD](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/1.jpg "WESTWORLD")
-<div align=center>
-	<img src="https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/1.jpg" width="100">
-</div>
+// ![WESTWORLD](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/1.jpg "WESTWORLD")
+
+<img src="https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/1.jpg" width="50">
+
 ![WESTWORLD](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/2.jpg "WESTWORLD")
 ![WESTWORLD](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/3.jpg "WESTWORLD")
 <font size="1" face="黑体">(图转自知乎某用户)</font>
