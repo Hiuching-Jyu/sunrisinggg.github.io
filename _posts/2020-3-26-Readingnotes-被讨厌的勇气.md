@@ -5,6 +5,7 @@ date: 2020-3-26
 excerpt: "READING NOTES"
 tags: [Readingnotes]
 comments: true
+project: true
 ---
 
 
