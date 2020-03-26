@@ -84,4 +84,4 @@ comments: true
 # 尾声
 还记得开头西部世界的台词吗？事实上，意识金字塔有四层：最底层是**记忆**，第二层是**即兴行为*，第三层是**欲望**，第四层是**意识**。两年前看剧时以为作为人类，拥有意识是我们莫大的幸运，后来才发现，真正被自己的意识掌控的人还是少数。谨以此文，期待自己未来的蜕变。
 
-**I ope to see a keen, beautiful, logical mind.**
+**I hope to see a keen, beautiful, logical mind.**
