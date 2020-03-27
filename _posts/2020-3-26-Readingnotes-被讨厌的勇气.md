@@ -1,18 +1,17 @@
 ---
 layout: post
 title: "The Courage to be Disliked"
-date: 2020-3-26
+date: 2020-3-26 
 excerpt: "READING NOTES"
 tags: [Readingnotes]
 comments: true
 project: true
-feature:https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/flowers.gif
 ---
 
 <font size="1" face="黑体">Tips: 移动端横屏阅读可显示图片</font>
 # 被讨厌的勇气：“自我启发之父”阿德勒的哲学课
 岸见一郎 古贺史健
-
+![Flowers](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/flowers.gif "flowers")
 ## ◆再怎么“找原因”，也没法改变一个人
 
 > 如果一味地关注过去的原因，企图仅仅靠原因去解释事物，那就会陷入“决定论”。也就是说，最终会得出这样的结论：我们的现在甚至未来全部都由过去的事情所决定，而且根本无法改变。是这样吧？
