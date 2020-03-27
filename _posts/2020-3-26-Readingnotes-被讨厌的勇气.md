@@ -6,6 +6,7 @@ excerpt: "READING NOTES"
 tags: [Readingnotes]
 comments: true
 project: true
+feature:https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/flowers.gif
 ---
 
 <font size="1" face="黑体">Tips: 移动端横屏阅读可显示图片</font>
