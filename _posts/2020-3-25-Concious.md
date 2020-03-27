@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Individual Consciousnesses（调试中）"
+title: "Individual Consciousnesses"
 date: 2020-3-25
 excerpt: "About the Westworld, Avatars, and Self-consciousness. "
 tags: [jottings, AI]
@@ -87,4 +87,4 @@ feature: https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/mas
 
 **I hope to see a keen, beautiful, logical mind.**
 
-*手动版权声明 :joy:：原创文章,欢迎转载,转载请注明作者、原文链接 https://sunrisinggg.github.io/Concious/*
+*手动版权声明：原创文章,欢迎转载,转载请注明作者、原文链接 https://sunrisinggg.github.io/Concious/*
