@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Courage to be Disliked"
+title: "The Courage to be Disliked"(TESTING)
 date: 2020-3-26 
-excerpt: "READING NOTES"
+excerpt: "Us institutions offering robotics LABS and ph. D courses"
 tags: [programme]
 comments: true
 project: true
