@@ -288,7 +288,7 @@ NI: No Information
 
 ![Screenshot](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/screenshot.png "screenshot")
 
-2.由我那忠实的github desktop提供的上图~~易~~得，真就还是有坑呗......就是中间的空格用-代替，并且全部大写要转换成小写 --> --> 好吧我输了	
+2.由我那**忠实**的github desktop提供的上图~~易~~得，真就还是有坑呗......就是中间的空格用-代替，并且全部大写要转换成小写 --> --> 好吧我输了	
 
 
 
