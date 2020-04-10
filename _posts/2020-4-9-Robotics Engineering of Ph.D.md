@@ -15,13 +15,21 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 
 ***
 <big><b>Catalogue</big></b>
+
 [Carnegie Mellon University](### Carnegie Mellon University)
+
 [Massachusetts Institute of Technology](### Massachusetts Institute of Technology)
+
 [Georgia Institute of Technology](### Georgia Institute of Technology)
+
 [University of Colorado Boulder](### University of Colorado Boulder)
+
 [University of Southern California](### University of Southern California)
+
 [Stanford University](### Stanford University)
+
 [The University of Michigan](### The University of Michigan)
+
 [Oregon State University](### Oregon State University)
 
 
