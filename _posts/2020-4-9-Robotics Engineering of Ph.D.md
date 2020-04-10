@@ -10,8 +10,9 @@ feature: https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/mas
 ---
 
 
-<center>This blog will present a couple of Us institutions offering robotics Labs and Ph.D. courses with other details.</center>
-<font color=#FF0000>(Noted that you should include a link to this article, if you really need to reprint it. )</font>
+<center><big><b>This blog will present a couple of Us institutions offering robotics Labs and Ph.D. courses with other details.</b></big></center>
+<center><small>(Noted that you should include a link to this article, if you really need to reprint it. )</small></center>
+
 ***
 ###   Carnegie Mellon University
 ![Carnegie Mellon University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Carnegie Mellon University.jpg "Carnegie Mellon University")
