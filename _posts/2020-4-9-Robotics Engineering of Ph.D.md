@@ -9,7 +9,7 @@ project: true
 feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets/img/Robotics%20Engineering%20of%20Ph.D/abc.jpg?raw=true
 ---
 
-
+[toc]
 <center><big><b>This blog will present a couple of Us institutions offering robotics Labs and Ph.D. courses with other details.</b></big></center>
 <center><small>(Noted that you should <b>include a link to this article</b> if you really need to reprint it. )</small></center>
 
@@ -228,24 +228,3 @@ i. more information: **had published as authors or co-authors on academic public
 j. link: [①](https://gradschool.oregonstate.edu/programs/3250/robotics-phd-ms-minor)    [②](https://robotics.oregonstate.edu/join-us)[③](https://engineering.oregonstate.edu/robotics/doctorate-degree-robotics)
 
 ***
-The template below is  for continuous updating
-###   
-a. Faculty:  **  **
-
-b. Tutor(title):  **  **
-
-c. Detail: **  **
-
-d. GRE V/W:  **  **
-
-e. Toefl/IELTs:  **  **
-
-f. Gpa: **  **
-
-g. Due date: **  ** 
-
-h. major background: **  **
-
-i. more information: **  **
-
-j. [link]()
