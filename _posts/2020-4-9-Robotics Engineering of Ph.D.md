@@ -31,7 +31,7 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 
 [    ○ The University of Michigan](#the-university-of-michigan)
 
-[    ○ Oregon State University](#cregon-state-university)
+[    ○ Oregon State University](#oregon-state-university)
 
 
 <hr>
