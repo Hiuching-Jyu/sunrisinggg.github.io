@@ -11,7 +11,9 @@ project: true
 
 ###   
 a. Faculty:  **  **
+
 b. Tutor(title):  **  **
+
 c. Detail: **  **
 
 d. GRE V/W:  **  **
@@ -30,7 +32,7 @@ j. [link]()
 
 
 ###   Carnegie Mellon University
-a. Faculty:  ** School of Computer Science**
+a. Faculty:  **School of Computer Science**
 
 b.    [Tutor(title):](https://www.ri.cmu.edu/?taxonomy=faculty-caterogy&term=research-hub) 
 
@@ -91,9 +93,9 @@ j. [link for CS institution](http://www.eecs.mit.edu/academics-admissions/gradua
 k. research oportunity: 
 
 ###  Georagia Tech
-a. Faculty:  ** EE&CS/ME/BE/IC/AE**
+a. Faculty:  **EE&CS/ME/BE/IC/AE**
 
-b. Tutor(title):  **  **
+b. Tutor(title): 
 
 c. Detail: Mechanics, Controls, Perception, Human-Robot Interaction (HRI), and Artificial Intelligence (AI) & Autonomy.
 
@@ -103,11 +105,11 @@ e. Tofel/IELTs:  **T: 90min(ibt with min section 19, CS&EE); 94 (ME); 100 (Robot
 
 f. Gpa: **3.5**
 
-g. Due date: ** Dec.16** 
+g. Due date: **Dec.16** 
 
 h. major background: **Bioengineering/Computer Systems and Software/ Digital Signal Processing/ Electrical Energy/ Electromagnetics/ Electronic Design and Applications/ Nanotechnology/ Optics and Photonics/ Systems and Controls/ Telecommunications/ VLSI Systems and Digital Design**
 
-i. more information: **  **
+i. more information:
 
 j.links: [link for CS&EE ](http://www.gradadmiss.gatech.edu/ece)
 
@@ -122,7 +124,7 @@ c. Detail:
 
 d. GRE V/W:  required NI
 
-e. Tofel/IELTs:  ** ME:T: 90 (speaking 24 for funding consideration)/ I:7  ; **
+e. Tofel/IELTs:  **ME:T: 90 (speaking 24 for funding consideration)/ I:7  ;**
 
 f. Gpa: **Division 2**
 
@@ -168,7 +170,7 @@ d. GRE V/W: **162+3.9(av)**
 
 e. Tofel/IELTs: **T:84(IBT)+560(PBT)/ I:6.5**
 
-f. Gpa: ** 3.7(av) **
+f. Gpa: **3.7(av)**
 
 g. Due date: **Dec.15**
 
@@ -199,9 +201,5 @@ h. major background: **science, mathematics, computer science, engineering**
 
 i. more information: **had published as authors or co-authors on academic publications**
 
-j. link: [①](https://gradschool.oregonstate.edu/programs/3250/robotics-phd-ms-minor)    
-
-[②](https://robotics.oregonstate.edu/join-us)
-
-[③](https://engineering.oregonstate.edu/robotics/doctorate-degree-robotics)
+j. link: [①](https://gradschool.oregonstate.edu/programs/3250/robotics-phd-ms-minor)    [②](https://robotics.oregonstate.edu/join-us)[③](https://engineering.oregonstate.edu/robotics/doctorate-degree-robotics)
 
