@@ -7,7 +7,6 @@ tags: [programme]
 comments: true
 project: true
 feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets/img/Robotics%20Engineering%20of%20Ph.D/abc.jpg?raw=true
-
 ---
 
 <center><big><b>This blog will present a couple of Us institutions offering robotics Labs and Ph.D. courses with other details.</b></big></center>
@@ -16,18 +15,18 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 
 ***
 <big><b>Catalogue</big></b>
-[Carnegie Mellon University](#Carnegie Mellon University)
-[Massachusetts Institute of Technology](#Massachusetts Institute of Technology)
-[Georgia Institute of Technology](#Georgia Institute of Technology)
-[University of Colorado Boulder](#University of Colorado Boulder)
-[University of Southern California](#University of Southern California)
-[Stanford University](#Stanford University)
-[The University of Michigan](#The University of Michigan)
-[Oregon State University](#Oregon State University)
+[Carnegie Mellon University](### Carnegie Mellon University)
+[Massachusetts Institute of Technology](### Massachusetts Institute of Technology)
+[Georgia Institute of Technology](### Georgia Institute of Technology)
+[University of Colorado Boulder](### University of Colorado Boulder)
+[University of Southern California](### University of Southern California)
+[Stanford University](### Stanford University)
+[The University of Michigan](### The University of Michigan)
+[Oregon State University](### Oregon State University)
 
 
 ***
-###   Carnegie Mellon University
+### Carnegie Mellon University
 
 ![Carnegie Mellon University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D./Carnegie Mellon University.jpg "Carnegie Mellon University")
 
@@ -65,7 +64,7 @@ j. links: [①Robotics](https://www.ri.cmu.edu/education/academic-programs/docto
 
 ***
 
-###   Massachusetts Institute of Technology
+### Massachusetts Institute of Technology
 
 ![Massachusetts Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Massachusetts Institute of Technology.jpg "Massachusetts Institute of Technology")
 
@@ -103,7 +102,7 @@ k. research opportunity:
 
 ***
 
-###  Georgia Institute of Technology
+### Georgia Institute of Technology
 
 ![Georgia Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Georgia Institute of Technology.jpg "Georgia Institute of Technology")
 
@@ -143,7 +142,7 @@ j.links: [link for CS&EE ](http://www.gradadmiss.gatech.edu/ece)
 
 ***
 
-###   University of Colorado Boulder
+### University of Colorado Boulder
 
 ![University of Colorado Boulder](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/University of Colorado Boulder.jpg "University of Colorado Boulder")
 
@@ -170,7 +169,7 @@ j. link: [CU Boulder](https://www.colorado.edu/graduateschool/admissions/interna
 
 ***
 
-###   University of Southern California
+### University of Southern California
 
 ![University of Southern California](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/University of Southern California.jpg "University of Southern California")
 
@@ -196,7 +195,7 @@ j. [USCer General Application](https://gradadm.usc.edu/apply/international-stude
 
 ***
 
-###   Stanford University
+### Stanford University
 
 ![Stanford University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Stanford University.jpg "Stanford University")
 
