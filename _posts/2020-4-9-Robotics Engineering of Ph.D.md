@@ -33,8 +33,7 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 
 [Oregon State University](#cregon-state-university)
 
-
-***
+<HR style="border:3 double #987cb9" width="80%"color=#987cb9 SIZE=3>
 
 ## Carnegie Mellon University
 
