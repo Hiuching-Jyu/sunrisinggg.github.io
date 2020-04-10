@@ -6,6 +6,7 @@ excerpt: "Us institutions offering robotics LABS and ph. D courses"
 tags: [programme]
 comments: true
 project: true
+feature: https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/feature from Carnegie Mellon University.jpg
 ---
 # Us institutions offering robotics LABS and ph.D courses
 
@@ -75,7 +76,9 @@ j. [link for CS institution](http://www.eecs.mit.edu/academics-admissions/gradua
 
 k. research oportunity: 
 
-###  Georagia Tech
+###  Georgia Institute of Technology
+![Georgia Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Georgia Institute of Technology.jpg "Georgia Institute of Technology")
+
 a. Faculty:  **EE&CS/ME/BE/IC/AE**
 
 b. Tutor(title): 
