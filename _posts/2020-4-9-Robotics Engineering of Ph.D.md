@@ -15,7 +15,7 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 
 ***
 
-<big><b>Catalogue</big></b>
+<big><b>Catalogue</b></big>
 
 [Carnegie Mellon University](#carnegie-mellon-university)
 
@@ -35,7 +35,8 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 
 
 ***
-### Carnegie Mellon University
+
+## Carnegie Mellon University
 
 ![Carnegie Mellon University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D./Carnegie Mellon University.jpg "Carnegie Mellon University")
 
@@ -73,7 +74,7 @@ j. links: [①Robotics](https://www.ri.cmu.edu/education/academic-programs/docto
 
 ***
 
-### Massachusetts Institute of Technology
+## Massachusetts Institute of Technology
 
 ![Massachusetts Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Massachusetts Institute of Technology.jpg "Massachusetts Institute of Technology")
 
@@ -107,7 +108,7 @@ k. research opportunity:
 
 ***
 
-### Georgia Institute of Technology
+## Georgia Institute of Technology
 
 ![Georgia Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Georgia Institute of Technology.jpg "Georgia Institute of Technology")
 
@@ -135,7 +136,7 @@ j.links: [link for CS&EE ](http://www.gradadmiss.gatech.edu/ece)
 
 ***
 
-### University of Colorado Boulder
+## University of Colorado Boulder
 
 ![University of Colorado Boulder](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/University of Colorado Boulder.jpg "University of Colorado Boulder")
 
@@ -162,7 +163,7 @@ j. link: [CU Boulder](https://www.colorado.edu/graduateschool/admissions/interna
 
 ***
 
-### University of Southern California
+## University of Southern California
 
 ![University of Southern California](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/University of Southern California.jpg "University of Southern California")
 
@@ -188,7 +189,7 @@ j. [USCer General Application](https://gradadm.usc.edu/apply/international-stude
 
 ***
 
-### Stanford University
+## Stanford University
 
 ![Stanford University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Stanford University.jpg "Stanford University")
 
@@ -214,7 +215,7 @@ j. [Application for CS (FAQ)](https://cs.stanford.edu/admissions/faq#b15)
 
 ***
 
-### The University of Michigan
+## The University of Michigan
 
 ![The University of Michigan](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/The University of Michigan.jpg "The University of Michigan")
 
@@ -240,7 +241,7 @@ j. [link](https://robotics.umich.edu/academic-program/admissions-info/ )
 
 ***
 
-### Oregon State University 俄勒冈州立大学
+## Oregon State University 俄勒冈州立大学
 
 ![Oregon State University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Oregon State University.jpg "Oregon State University")
 
@@ -266,7 +267,7 @@ j. link: [How to join①](https://gradschool.oregonstate.edu/programs/3250/robot
 
 ***
 
-### Explanations of some abbreviations
+## Explanations of some abbreviations
 
 CS: Computer Science
 EE: Eletrical Engineering
