@@ -31,7 +31,115 @@ i. more information: **  **
 j. [link]()
 
 
-#### Umich密歇根大学
+####   Carnegie Mellon University
+a. Faculty:  ** School of Computer Science**
+
+b. Tutor(title):  ** [link](https://www.ri.cmu.edu/?taxonomy=faculty-caterogy&term=research-hub) **
+
+c. Detail: **  **
+
+d. GRE V/W:  **  **
+
+e. Tofel/IELTs:  **T: 100(ibt,min)/ I: 7 **
+
+f. Gpa: **  and Class Rank**
+
+g. Due date: **Dec.2** 
+
+h. major background: **CS**
+
+i. Prerequisites:
+
+1. courses：
+
+(1) **Mathematics** : calculus, linear algebra, numerical analysis, probability and statistics
+
+(2) **Computer Science** : programming, data structures, algorithms
+
+(3) **Physics and Engineering** : mechanics, dynamics, electricity and magnetism, optics
+
+2. others
+
+j. links: [①Robotics](https://www.ri.cmu.edu/education/academic-programs/doctoral-robotics-program/)
+
+[②CSC general](https://scsdean.cs.cmu.edu/admissions/faq.html)
+
+
+####   MIT
+a. Faculty:  **EE&CS/ME/Mathmatics/Aeronautics and Astronautics**
+
+b. Tutor(title):  
+
+c. Detail: 
+
+d. GRE V/W:  **NO NEED** (CS&EE)
+
+e. Tofel/IELTs:  **T: 100(ibt) / I: 7 **
+
+f. Gpa: NI 
+
+g. Due date: **Dec.15** 
+
+h. major background:
+
+i. requirement
+
+1. Courses
+
+(1). ME: At least an undergraduate-level exposure to most of the core MechE disciplines (solid mechanics, dynamics, fluid mechanics, thermodynamics, heat transfer, materials, control, design and manufacturing), and to be familiar with basic electric circuits and electromagnetic field theory.
+
+(2) EECS: A very strong background in math, physics, engineering, or computer science is a necessity. 
+
+j. [link for CS institution](http://www.eecs.mit.edu/academics-admissions/graduate-program/admissions)
+
+k. research oportunity: 
+
+####  Georagia Tech
+a. Faculty:  ** EE&CS/ME/BE/IC/AE**
+
+b. Tutor(title):  **  **
+
+c. Detail: Mechanics, Controls, Perception, Human-Robot Interaction (HRI), and Artificial Intelligence (AI) & Autonomy.
+
+d. GRE V/W:  **304.5, Verbal: 146, quantitative:155, writing:3.5**
+
+e. Tofel/IELTs:  **T: 90min(ibt with min section 19, CS&EE); 94 (ME); 100 (Robotics) / I: min7(min: reading&listening&speaking：6.5. writing:5.5**
+
+f. Gpa: **3.5**
+
+g. Due date: ** Dec.16** 
+
+h. major background: **Bioengineering/Computer Systems and Software/ Digital Signal Processing/ Electrical Energy/ Electromagnetics/ Electronic Design and Applications/ Nanotechnology/ Optics and Photonics/ Systems and Controls/ Telecommunications/ VLSI Systems and Digital Design**
+
+i. more information: **  **
+
+j.links: [link for CS&EE ](http://www.gradadmiss.gatech.edu/ece)
+
+[link for Robotics ](http://phdrobotics.gatech.edu/requirements)
+
+####   University of Colorado Boulder
+a. Faculty:  **ME/ maybe CS**
+
+b. [Tutor(title):](https://www.colorado.edu/mechanical/research/research-focus-areas/robotics-and-systems-design-research**)
+
+c. Detail: 
+
+d. GRE V/W:  required NI
+
+e. Tofel/IELTs:  ** ME:T: 90 (speaking 24 for funding consideration)/ I:7  ; **
+
+f. Gpa: **Division 2**
+
+g. Due date:  
+
+h. major background: 
+
+i. more information: 
+
+j. [CU Boulder](https://www.colorado.edu/graduateschool/admissions/international-applicants)
+
+
+#### The University of Michigan
 a. Faculty: **Rackham Graduate School** 
 
 b. Tutor(title): **click here**
