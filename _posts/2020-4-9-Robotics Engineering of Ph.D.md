@@ -143,7 +143,7 @@ j.links: [link for CS&EE ](http://www.gradadmiss.gatech.edu/ece)
 
 a. Faculty:  **ME/ maybe CS**
 
-b. [Tutor(title):](https://www.colorado.edu/mechanical/research/research-focus-areas/robotics-and-systems-design-research**
+b. [Tutor(title):](https://www.colorado.edu/mechanical/research/research-focus-areas/robotics-and-systems-design-research)
 
 c. Detail: 
 
