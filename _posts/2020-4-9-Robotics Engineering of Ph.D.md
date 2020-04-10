@@ -10,7 +10,7 @@ feature: https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/mas
 ---
 # Us institutions offering robotics LABS and ph.D courses
 
-
+***
 ###   Carnegie Mellon University
 ![Carnegie Mellon University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Carnegie Mellon University.jpg "Carnegie Mellon University")
 
@@ -44,7 +44,7 @@ i. Prerequisites:
 
 j. links: [①Robotics](https://www.ri.cmu.edu/education/academic-programs/doctoral-robotics-program/) [②CSC general](https://scsdean.cs.cmu.edu/admissions/faq.html)
 
-
+***
 ###   Massachusetts Institute of Technology
 ![Massachusetts Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Massachusetts Institute of Technology.jpg "Massachusetts Institute of Technology")
 
@@ -76,6 +76,7 @@ j. [link for CS institution](http://www.eecs.mit.edu/academics-admissions/gradua
 
 k. research oportunity: 
 
+***
 ###  Georgia Institute of Technology
 ![Georgia Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Georgia Institute of Technology.jpg "Georgia Institute of Technology")
 
@@ -101,6 +102,7 @@ j.links: [link for CS&EE ](http://www.gradadmiss.gatech.edu/ece)
 
 [link for Robotics ](http://phdrobotics.gatech.edu/requirements)
 
+***
 ###   University of Colorado Boulder
 ![University of Colorado Boulder](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/University of Colorado Boulder.jpg "University of Colorado Boulder")
 
@@ -125,6 +127,7 @@ i. more information:
 
 j. [CU Boulder](https://www.colorado.edu/graduateschool/admissions/international-applicants)
 
+***
 ###   University of Southern California
 ![University of Southern California](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/University of Southern California.jpg "University of Southern California")
 
@@ -148,6 +151,7 @@ i. more information: NI
 
 j. [USCer General Application](https://gradadm.usc.edu/apply/international-students/), [CS Application](https://www.cs.usc.edu/admission/)
 
+***
 ###   Stanford University
 ![Stanford University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Stanford University.jpg "Stanford University")
 
@@ -171,7 +175,7 @@ i. more information:
 
 j. [Application for CS (FAQ)](https://cs.stanford.edu/admissions/faq#b15)
 
-
+***
 ### The University of Michigan
 ![The University of Michigan](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/The University of Michigan.jpg "The University of Michigan")
 
@@ -196,7 +200,7 @@ i. more information: academic performance, GRE scores, research experience, lett
 j. [link](https://robotics.umich.edu/academic-program/admissions-info/ )
 
 
-
+***
 ### Oregon State University 俄勒冈州立大学
 ![Oregon State University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Oregon State University.jpg "Oregon State University")
 
@@ -220,6 +224,7 @@ i. more information: **had published as authors or co-authors on academic public
 
 j. link: [①](https://gradschool.oregonstate.edu/programs/3250/robotics-phd-ms-minor)    [②](https://robotics.oregonstate.edu/join-us)[③](https://engineering.oregonstate.edu/robotics/doctorate-degree-robotics)
 
+***
 The template below is  for continuous updating
 ###   
 a. Faculty:  **  **
