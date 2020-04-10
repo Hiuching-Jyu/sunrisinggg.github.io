@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Robotics engineering of Ph.D(TESTING)"
+title: "Robotics Engineering of Ph.D (TESTING)"
 date: 2020-4-9
 excerpt: "Us institutions offering robotics LABS and ph. D courses"
 tags: [programme]
 comments: true
 project: true
 ---
-# Us institutions offering robotics LABS and ph. D courses
+# Us institutions offering robotics LABS and ph.D courses
 
-####  University  
+####   
 a. Faculty:  **  **
 
 b. Tutor(title):  **  **
@@ -32,15 +32,15 @@ j. [link]()
 
 
 #### Umich密歇根大学
-a. Faculty: ** Rackham Graduate School** 
+a. Faculty: **Rackham Graduate School** 
 
-b. Tutor(title): ** click here **
+b. Tutor(title): **click here**
 
-c. Detail: ** See below **
+c. Detail: **See below**
 
-d. GRE V/W: ** 162+3.9(av)**
+d. GRE V/W: **162+3.9(av)**
 
-e. Tofel/IELTs: ** T:84(IBT)+560(PBT)/ I:6.5**
+e. Tofel/IELTs: **T:84(IBT)+560(PBT)/ I:6.5**
 
 f. Gpa: ** 3.7(av) **
 
@@ -59,20 +59,23 @@ a. Faculty : **Engineering: Collaborative Robotics and Intelligent Systems (CoRI
 
 b. Tutor(title): click here
 
-c. Detail:NI
+c. Detail: Core areas of robotics, including actuation, locomotion, manipulation, dynamics, control, sensing, artificial intelligence, and human/robot interaction.
 
 d. GRE V/W: **75%**
 
 e. Tofel/IELTs : **T: 80(ibt)+550(pbt) (speaking22)/ I: 6.5**
 
-f. Gpa :** 3.0--3.5**
+f. Gpa :**3.0--3.5**
 
-g. Due date: ** Dec.30**
+g. Due date: **Dec.30**
 
 h. major background: **science, mathematics, computer science, engineering**
 
 i. more information: **had published as authors or co-authors on academic publications**
 
-j. link: [①](https://gradschool.oregonstate.edu/programs/3250/robotics-phd-ms-minor)    [②](https://robotics.oregonstate.edu/join-us)
+j. link: [①](https://gradschool.oregonstate.edu/programs/3250/robotics-phd-ms-minor)    
 
+[②](https://robotics.oregonstate.edu/join-us)
+
+[③](https://engineering.oregonstate.edu/robotics/doctorate-degree-robotics)
 
