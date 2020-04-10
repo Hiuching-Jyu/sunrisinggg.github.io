@@ -185,7 +185,7 @@ h. major background: NI
 
 i. more information: NI
 
-j. [USCer General Application](https://gradadm.usc.edu/apply/international-students/), [CS Application](https://www.cs.usc.edu/admission/)
+j. links: [USCer General Application](https://gradadm.usc.edu/apply/international-students/), [CS Application](https://www.cs.usc.edu/admission/)
 
 ***
 
@@ -211,7 +211,7 @@ h. major background: **have strong quantitative and analytical skills.**
 
 i. more information: 
 
-j. [Application for CS (FAQ)](https://cs.stanford.edu/admissions/faq#b15)
+j.links: [Application for CS (FAQ)](https://cs.stanford.edu/admissions/faq#b15)
 
 ***
 
@@ -237,7 +237,7 @@ h. major background: **ME/EE/CS**
 
 i. more information: academic performance, GRE scores, research experience, letters of recommendation (with particular attention to letters coming from faculty in relevant fields) and the academic statement of purpose. 
 
-j. [link](https://robotics.umich.edu/academic-program/admissions-info/ )
+j. link: [Robotics Applicants](https://robotics.umich.edu/academic-program/admissions-info/ )
 
 ***
 
