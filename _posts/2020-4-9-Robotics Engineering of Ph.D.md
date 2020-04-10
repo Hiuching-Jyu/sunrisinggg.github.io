@@ -7,15 +7,19 @@ tags: [programme]
 comments: true
 project: true
 feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets/img/Robotics%20Engineering%20of%20Ph.D/abc.jpg?raw=true
+
 ---
 
 [toc]
+
 <center><big><b>This blog will present a couple of Us institutions offering robotics Labs and Ph.D. courses with other details.</b></big></center>
 <center><small>(Noted that you should <b>include a link to this article</b> if you really need to reprint it. )</small></center>
 
 ***
+
 ###   Carnegie Mellon University
-![Carnegie Mellon University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Carnegie Mellon University.jpg "Carnegie Mellon University")
+
+![Carnegie Mellon University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D./Carnegie Mellon University.jpg "Carnegie Mellon University")
 
 a. Faculty:  **School of Computer Science**
 
@@ -23,7 +27,9 @@ b.    [link of Tutor(title)](https://www.ri.cmu.edu/?taxonomy=faculty-caterogy&t
 
 c. Detail: 
 
-d. GRE V/W:  
+d. GRE V/W:  NI
+
+[^NI]:  No Information
 
 e. Toefl/IELTs: **T: 100(ibt,min)/ I: 7**
 
@@ -37,21 +43,27 @@ i. Prerequisites:
 
 1. courses：
 
-(1) **Mathematics** : calculus, linear algebra, numerical analysis, probability and statistics
+   (1) **Mathematics** : calculus, linear algebra, numerical analysis, probability and statistics
 
-(2) **Computer Science** : programming, data structures, algorithms
+   (2) **Computer Science** : programming, data structures, algorithms
 
-(3) **Physics and Engineering** : mechanics, dynamics, electricity and magnetism, optics
+   (3) **Physics and Engineering** : mechanics, dynamics, electricity and magnetism, optics
 
 2. others
 
 j. links: [①Robotics](https://www.ri.cmu.edu/education/academic-programs/doctoral-robotics-program/) [②CSC general](https://scsdean.cs.cmu.edu/admissions/faq.html)
 
 ***
+
 ###   Massachusetts Institute of Technology
+
 ![Massachusetts Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Massachusetts Institute of Technology.jpg "Massachusetts Institute of Technology")
 
-a. Faculty:  **EE&CS/ME/Mathmatics/Aeronautics and Astronautics**
+a. Faculty:  **EE&CS/ **
+
+[^]: 
+
+**ME/ Mathmatics/ Aeronautics and Astronautics**
 
 b. Tutor(title):  
 
@@ -71,19 +83,33 @@ i. requirement
 
 1. Courses
 
-(1). ME: At least an undergraduate-level exposure to most of the core MechE disciplines (solid mechanics, dynamics, fluid mechanics, thermodynamics, heat transfer, materials, control, design and manufacturing), and to be familiar with basic electric circuits and electromagnetic field theory.
+(1). ME: At least an undergraduate-level exposure to most of the core MechE disciplines (<u>solid mechanics, dynamics, fluid mechanics, thermodynamics, heat transfer, materials, control, design and manufacturing</u>), and to be familiar with <u>basic electric circuits and electromagnetic field theory.</u>
 
 (2) EECS: A very strong background in math, physics, engineering, or computer science is a necessity. 
 
 j. [link for CS institution](http://www.eecs.mit.edu/academics-admissions/graduate-program/admissions)
 
-k. research oportunity: 
+k. research opportunity: 
 
 ***
+
 ###  Georgia Institute of Technology
+
 ![Georgia Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Georgia Institute of Technology.jpg "Georgia Institute of Technology")
 
-a. Faculty:  **EE&CS/ME/BE/IC/AE**
+a. Faculty:  
+
+[^EE&CS]: Electrical Engineering and Computer Science
+
+/
+
+[^ME]: Mechanical Engineering
+
+/**
+
+[^BE]: Biology Engineering
+
+**/IC/AE**
 
 b. Tutor(title): 
 
@@ -91,7 +117,7 @@ c. Detail: Mechanics, Controls, Perception, Human-Robot Interaction (HRI), and A
 
 d. GRE V/W:  **304.5, Verbal: 146, quantitative:155, writing:3.5**
 
-e. Toefl/IELTs:  **T: 90min(ibt with min section 19, CS&EE); 94 (ME); 100 (Robotics) / I: min7(min: reading&listening&speaking：6.5. writing:5.5**
+e. Toefl/IELTs:  **T: min90 (ibt, each section min19, CS&EE); 94 (ME); 100 (Robotics) / I: min7(min: reading&listening&speaking: 6.5. writing: 5.5**
 
 f. Gpa: **3.5**
 
@@ -106,13 +132,15 @@ j.links: [link for CS&EE ](http://www.gradadmiss.gatech.edu/ece)
 [link for Robotics ](http://phdrobotics.gatech.edu/requirements)
 
 ***
+
 ###   University of Colorado Boulder
+
 ![University of Colorado Boulder](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/University of Colorado Boulder.jpg "University of Colorado Boulder")
 
 
 a. Faculty:  **ME/ maybe CS**
 
-b. [Tutor(title):](https://www.colorado.edu/mechanical/research/research-focus-areas/robotics-and-systems-design-research**)
+b. [Tutor(title):](https://www.colorado.edu/mechanical/research/research-focus-areas/robotics-and-systems-design-research**
 
 c. Detail: 
 
@@ -122,16 +150,18 @@ e. Toefl/IELTs:  **ME:T: 90 (speaking 24 for funding consideration)/ I:7  ;**
 
 f. Gpa: **Division 2**
 
-g. Due date:  
+g. Due date:  NI
 
 h. major background: 
 
 i. more information: 
 
-j. [CU Boulder](https://www.colorado.edu/graduateschool/admissions/international-applicants)
+j. link: [CU Boulder](https://www.colorado.edu/graduateschool/admissions/international-applicants)
 
 ***
+
 ###   University of Southern California
+
 ![University of Southern California](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/University of Southern California.jpg "University of Southern California")
 
 a. Faculty:  **mostly in CS**
@@ -155,7 +185,9 @@ i. more information: NI
 j. [USCer General Application](https://gradadm.usc.edu/apply/international-students/), [CS Application](https://www.cs.usc.edu/admission/)
 
 ***
+
 ###   Stanford University
+
 ![Stanford University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Stanford University.jpg "Stanford University")
 
 a. Faculty:  **CS**
@@ -164,7 +196,7 @@ b. [Tutor(title):](https://cs.stanford.edu/groups/manips/people.html)
 
 c. Detail:
 
-d. GRE V/W:  **90 for master**
+d. GRE V/W:  **90 for master**(NI)
 
 e. Toefl/IELTs: NI
 
@@ -179,7 +211,9 @@ i. more information:
 j. [Application for CS (FAQ)](https://cs.stanford.edu/admissions/faq#b15)
 
 ***
+
 ### The University of Michigan
+
 ![The University of Michigan](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/The University of Michigan.jpg "The University of Michigan")
 
 a. Faculty: **Rackham Graduate School** 
@@ -202,9 +236,10 @@ i. more information: academic performance, GRE scores, research experience, lett
 
 j. [link](https://robotics.umich.edu/academic-program/admissions-info/ )
 
-
 ***
+
 ### Oregon State University 俄勒冈州立大学
+
 ![Oregon State University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Oregon State University.jpg "Oregon State University")
 
 a. Faculty : **Engineering: Collaborative Robotics and Intelligent Systems (CoRIS) Institute**
@@ -228,3 +263,10 @@ i. more information: **had published as authors or co-authors on academic public
 j. link: [①](https://gradschool.oregonstate.edu/programs/3250/robotics-phd-ms-minor)    [②](https://robotics.oregonstate.edu/join-us)[③](https://engineering.oregonstate.edu/robotics/doctorate-degree-robotics)
 
 ***
+
+### Explanations of some abbreviations
+
+CS: Computer Science
+EE: Eletrical Engineering
+ME: Mechanical Engineering
+NI: No Information
