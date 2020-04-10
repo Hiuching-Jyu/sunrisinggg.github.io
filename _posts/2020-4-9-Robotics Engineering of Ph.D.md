@@ -15,7 +15,7 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 
 ***
 
-<font size="4" face="Segoe Script">Catalogue</font>
+<b><font size="4" face="Segoe Script">Catalogue</font></b>
 
 [Carnegie Mellon University](#carnegie-mellon-university)
 
