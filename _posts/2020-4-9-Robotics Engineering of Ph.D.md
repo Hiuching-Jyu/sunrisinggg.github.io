@@ -25,13 +25,13 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 
 [    ○ University of Colorado Boulder](#university-of-colorado-boulder)
 
-[    ○University of Southern California](#university-of-southern-california)
+[    ○ University of Southern California](#university-of-southern-california)
 
-[    ○Stanford University](#stanford-university)
+[    ○ Stanford University](#stanford-university)
 
-[    ○The University of Michigan](#the-university-of-michigan)
+[    ○ The University of Michigan](#the-university-of-michigan)
 
-[    ○Oregon State University](#cregon-state-university)
+[    ○ Oregon State University](#cregon-state-university)
 
 
 <hr style="FILTER: alpha(opacity=100,finishopacity=0,style=1)" width="80%" color=#987cb9 size=3>
