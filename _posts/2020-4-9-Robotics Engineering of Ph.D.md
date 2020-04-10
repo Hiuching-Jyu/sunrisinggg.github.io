@@ -260,7 +260,7 @@ h. major background: **science, mathematics, computer science, engineering**
 
 i. more information: **had published as authors or co-authors on academic publications**
 
-j. link: [①](https://gradschool.oregonstate.edu/programs/3250/robotics-phd-ms-minor)    [②](https://robotics.oregonstate.edu/join-us)[③](https://engineering.oregonstate.edu/robotics/doctorate-degree-robotics)
+j. link: [How to join①](https://gradschool.oregonstate.edu/programs/3250/robotics-phd-ms-minor)    [How to jion②](https://robotics.oregonstate.edu/join-us)[Courses and requirement for existing Ph.D.s ](https://engineering.oregonstate.edu/robotics/doctorate-degree-robotics)
 
 ***
 
