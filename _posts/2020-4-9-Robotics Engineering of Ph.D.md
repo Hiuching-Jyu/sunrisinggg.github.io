@@ -6,17 +6,17 @@ excerpt: "Us institutions offering robotics LABS and ph. D courses"
 tags: [programme]
 comments: true
 project: true
-feature: https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/feature from Carnegie Mellon University.jpg
+feature: https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/feature from Carnegie Mellon University.jpg
 ---
 # Us institutions offering robotics LABS and ph.D courses
 
 
 ###   Carnegie Mellon University
-![Carnegie Mellon University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Carnegie Mellon University.jpg "Carnegie Mellon University")
+![Carnegie Mellon University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Carnegie Mellon University.jpg "Carnegie Mellon University")
 
 a. Faculty:  **School of Computer Science**
 
-b.    [Tutor(title):](https://www.ri.cmu.edu/?taxonomy=faculty-caterogy&term=research-hub) 
+b.    [link of Tutor(title)](https://www.ri.cmu.edu/?taxonomy=faculty-caterogy&term=research-hub) 
 
 c. Detail: 
 
@@ -46,7 +46,7 @@ j. links: [①Robotics](https://www.ri.cmu.edu/education/academic-programs/docto
 
 
 ###   Massachusetts Institute of Technology
-![Massachusetts Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Massachusetts Institute of Technology.jpg "Massachusetts Institute of Technology")
+![Massachusetts Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Massachusetts Institute of Technology.jpg "Massachusetts Institute of Technology")
 
 a. Faculty:  **EE&CS/ME/Mathmatics/Aeronautics and Astronautics**
 
@@ -77,7 +77,7 @@ j. [link for CS institution](http://www.eecs.mit.edu/academics-admissions/gradua
 k. research oportunity: 
 
 ###  Georgia Institute of Technology
-![Georgia Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Georgia Institute of Technology.jpg "Georgia Institute of Technology")
+![Georgia Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Georgia Institute of Technology.jpg "Georgia Institute of Technology")
 
 a. Faculty:  **EE&CS/ME/BE/IC/AE**
 
@@ -102,6 +102,9 @@ j.links: [link for CS&EE ](http://www.gradadmiss.gatech.edu/ece)
 [link for Robotics ](http://phdrobotics.gatech.edu/requirements)
 
 ###   University of Colorado Boulder
+![University of Colorado Boulder](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/University of Colorado Boulder.jpg "University of Colorado Boulder")
+
+
 a. Faculty:  **ME/ maybe CS**
 
 b. [Tutor(title):](https://www.colorado.edu/mechanical/research/research-focus-areas/robotics-and-systems-design-research**)
@@ -123,6 +126,8 @@ i. more information:
 j. [CU Boulder](https://www.colorado.edu/graduateschool/admissions/international-applicants)
 
 ###   University of Southern California
+![University of Southern California](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/University of Southern California.jpg "University of Southern California")
+
 a. Faculty:  **mostly in CS**
 
 b. Tutor(title):  
@@ -143,7 +148,9 @@ i. more information: NI
 
 j. [USCer General Application](https://gradadm.usc.edu/apply/international-students/), [CS Application](https://www.cs.usc.edu/admission/)
 
-###   Standford
+###   Stanford University
+![Stanford University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Stanford University.jpg "Stanford University")
+
 a. Faculty:  **CS**
 
 b. [Tutor(title):](https://cs.stanford.edu/groups/manips/people.html) 
@@ -166,6 +173,8 @@ j. [Application for CS (FAQ)](https://cs.stanford.edu/admissions/faq#b15)
 
 
 ### The University of Michigan
+![The University of Michigan](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/The University of Michigan.jpg "The University of Michigan")
+
 a. Faculty: **Rackham Graduate School** 
 
 b. Tutor(title): **click here**
@@ -189,6 +198,8 @@ j. [link](https://robotics.umich.edu/academic-program/admissions-info/ )
 
 
 ### Oregon State University 俄勒冈州立大学
+![Oregon State University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Oregon State University.jpg "Oregon State University")
+
 a. Faculty : **Engineering: Collaborative Robotics and Intelligent Systems (CoRIS) Institute**
 
 b. Tutor(title): click here
@@ -209,7 +220,7 @@ i. more information: **had published as authors or co-authors on academic public
 
 j. link: [①](https://gradschool.oregonstate.edu/programs/3250/robotics-phd-ms-minor)    [②](https://robotics.oregonstate.edu/join-us)[③](https://engineering.oregonstate.edu/robotics/doctorate-degree-robotics)
 
-
+The template below is  for continuous updating
 ###   
 a. Faculty:  **  **
 
