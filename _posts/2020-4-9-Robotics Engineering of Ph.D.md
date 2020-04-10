@@ -34,7 +34,7 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 [    ○ Oregon State University](#cregon-state-university)
 
 
-<hr style="FILTER: alpha(opacity=100, finishopacity=0, style=1)" width="80%" color=#987cb9 size=3></hr>
+<hr>
 
 ## Carnegie Mellon University
 
