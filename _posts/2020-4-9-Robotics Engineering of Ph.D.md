@@ -6,12 +6,12 @@ excerpt: "Us institutions offering robotics LABS and ph. D courses"
 tags: [programme]
 comments: true
 project: true
-feature: https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/feature from Carnegie Mellon University.jpg
+feature: https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/abc.jpg
 ---
 
 
 <center><big><b>This blog will present a couple of Us institutions offering robotics Labs and Ph.D. courses with other details.</b></big></center>
-<center><small>(Noted that you should include a link to this article, if you really need to reprint it. )</small></center>
+<center><small>(Noted that you should <b>include a link to this article</b> if you really need to reprint it. )</small></center>
 
 ***
 ###   Carnegie Mellon University
