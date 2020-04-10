@@ -14,7 +14,7 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 ![Baymax](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D./Baymax.gif "Baymax")
 
 ***
-:page_with_curl:
+
 <big><b>Catalogue</big></b>
 
 [Carnegie Mellon University](#carnegie-mellon-university)
@@ -25,7 +25,7 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 
 [University of Colorado Boulder](#university-of-colorado-boulder)
 
-[University of Southern California](#universityof-southern-california)
+[University of Southern California](#university-of-southern-california)
 
 [Stanford University](#stanford-university)
 
@@ -77,11 +77,7 @@ j. links: [①Robotics](https://www.ri.cmu.edu/education/academic-programs/docto
 
 ![Massachusetts Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Massachusetts Institute of Technology.jpg "Massachusetts Institute of Technology")
 
-a. Faculty:  **EE&CS/ **
-
-[^]: 
-
-**ME/ Mathmatics/ Aeronautics and Astronautics**
+a. Faculty:  **EE&CS/ME/ Mathmatics/ Aeronautics and Astronautics**
 
 b. Tutor(title):  
 
@@ -115,19 +111,7 @@ k. research opportunity:
 
 ![Georgia Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Georgia Institute of Technology.jpg "Georgia Institute of Technology")
 
-a. Faculty:  
-
-[^EE&CS]: Electrical Engineering and Computer Science
-
-/
-
-[^ME]: Mechanical Engineering
-
-/**
-
-[^BE]: Biology Engineering
-
-**/IC/AE**
+a. Faculty:  EE&CS/ME/BE/IC/AE
 
 b. Tutor(title): 
 
@@ -289,17 +273,19 @@ EE: Eletrical Engineering
 ME: Mechanical Engineering
 NI: No Information
 
-咳咳	:rofl:，到了本次的反思时间hhh。反思嘛咱好好用中文就好:flushed:
+咳咳，到了本次的反思时间hhh。反思嘛咱好好用中文就好
 
 今天尝试用目录，照着其他教程在最前面加了个[toc]，结果在网页上居然原型现身了。这让我百思不得其解......然鹅我用**Typora**preview了一下，嗯？它就是目录的~~luan~~样啊？？？好吧废话不说了......
 
 所以，坑有：
-1. github 有自己的markdown语法，而且**真**就**刚刚好**的**非常凑巧**的没有目录这个语法 :expressionless: [链接给你，爱信不信](https://guides.github.com/features/mastering-markdown/)
+1.github 有自己的markdown语法，而且**真**就**刚刚好**的**非常凑巧**的没有目录这个语法  [链接给你，爱信不信](https://guides.github.com/features/mastering-markdown/)
 
-（所以啊，改行用Github Markdown 的**锚点**功能呗）--->[显示的内容](#穿越到的内容)
+（所以啊，改行用Github Markdown 的**锚点**功能呗）--->[显示的内容](#咻！穿越到这里来！)
 
 ![Screenshot](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/screenshot.png "screenshot")
 
-2. 由我那忠实的github desktop提供的上图~~易~~得，真就还是有坑呗......就是中间的空格用-代替，并且全部大写要转换成小写
+2.由我那忠实的github desktop提供的上图~~易~~得，真就还是有坑呗......就是中间的空格用-代替，并且全部大写要转换成小写 --> --> 好吧我输了	
 
-好吧我输了	:confused:
+咻！穿越到这里来！
+
+
