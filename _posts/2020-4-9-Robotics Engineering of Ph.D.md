@@ -9,29 +9,10 @@ project: true
 ---
 # Us institutions offering robotics LABS and ph.D courses
 
-###   
-a. Faculty:  **  **
-
-b. Tutor(title):  **  **
-
-c. Detail: **  **
-
-d. GRE V/W:  **  **
-
-e. Tofel/IELTs:  **  **
-
-f. Gpa: **  **
-
-g. Due date: **  ** 
-
-h. major background: **  **
-
-i. more information: **  **
-
-j. [link]()
-
 
 ###   Carnegie Mellon University
+![Carnegie Mellon University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Carnegie Mellon University.jpg "Carnegie Mellon University")
+
 a. Faculty:  **School of Computer Science**
 
 b.    [Tutor(title):](https://www.ri.cmu.edu/?taxonomy=faculty-caterogy&term=research-hub) 
@@ -40,7 +21,7 @@ c. Detail:
 
 d. GRE V/W:  
 
-e. Tofel/IELTs: **T: 100(ibt,min)/ I: 7**
+e. Toefl/IELTs: **T: 100(ibt,min)/ I: 7**
 
 f. Gpa: **with Class Rank**
 
@@ -63,7 +44,9 @@ i. Prerequisites:
 j. links: [①Robotics](https://www.ri.cmu.edu/education/academic-programs/doctoral-robotics-program/) [②CSC general](https://scsdean.cs.cmu.edu/admissions/faq.html)
 
 
-###   MIT
+###   Massachusetts Institute of Technology
+![Massachusetts Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Massachusetts Institute of Technology.jpg "Massachusetts Institute of Technology")
+
 a. Faculty:  **EE&CS/ME/Mathmatics/Aeronautics and Astronautics**
 
 b. Tutor(title):  
@@ -72,7 +55,7 @@ c. Detail:
 
 d. GRE V/W:  **NO NEED** (CS&EE)
 
-e. Tofel/IELTs:  **T: 100(ibt) / I: 7**
+e. Toefl/IELTs:  **T: 100(ibt) / I: 7**
 
 f. Gpa: NI 
 
@@ -101,7 +84,7 @@ c. Detail: Mechanics, Controls, Perception, Human-Robot Interaction (HRI), and A
 
 d. GRE V/W:  **304.5, Verbal: 146, quantitative:155, writing:3.5**
 
-e. Tofel/IELTs:  **T: 90min(ibt with min section 19, CS&EE); 94 (ME); 100 (Robotics) / I: min7(min: reading&listening&speaking：6.5. writing:5.5**
+e. Toefl/IELTs:  **T: 90min(ibt with min section 19, CS&EE); 94 (ME); 100 (Robotics) / I: min7(min: reading&listening&speaking：6.5. writing:5.5**
 
 f. Gpa: **3.5**
 
@@ -124,7 +107,7 @@ c. Detail:
 
 d. GRE V/W:  required NI
 
-e. Tofel/IELTs:  **ME:T: 90 (speaking 24 for funding consideration)/ I:7  ;**
+e. Toefl/IELTs:  **ME:T: 90 (speaking 24 for funding consideration)/ I:7  ;**
 
 f. Gpa: **Division 2**
 
@@ -137,26 +120,46 @@ i. more information:
 j. [CU Boulder](https://www.colorado.edu/graduateschool/admissions/international-applicants)
 
 ###   University of Southern California
-a. Faculty:  **CS**
+a. Faculty:  **mostly in CS**
 
 b. Tutor(title):  
 
 c. Detail: 
 
-d. GRE V/W:  **  **
+d. GRE V/W:  NI
 
-e. Tofel/IELTs:  **T: min100 (each min20) / I: min7 (each min6)**
+e. Toefl/IELTs:  **T: min100 (each min20) / I: min7 (each min6)**
 
-f. Gpa: **  **
+f. Gpa: NI
 
 g. Due date: **Dec.15** 
 
-h. major background: **  **
+h. major background: NI
 
-i. more information: **  **
+i. more information: NI
 
-j. [USCer General Application](https://gradadm.usc.edu/apply/international-students/)
+j. [USCer General Application](https://gradadm.usc.edu/apply/international-students/), [CS Application](https://www.cs.usc.edu/admission/)
 
+###   Standford
+a. Faculty:  **CS**
+
+b. [Tutor(title):](https://cs.stanford.edu/groups/manips/people.html) 
+
+c. Detail:
+
+d. GRE V/W:  **90 for master**
+
+e. Toefl/IELTs: NI
+
+f. Gpa: **3.6min**
+
+g. Due date:  
+
+h. major background: **have strong quantitative and analytical skills.**
+
+i. more information: 
+
+j. [Application for CS (FAQ)](https://cs.stanford.edu/admissions/faq#b15)
 
 
 ### The University of Michigan
@@ -168,7 +171,7 @@ c. Detail: **See below**
 
 d. GRE V/W: **162+3.9(av)**
 
-e. Tofel/IELTs: **T:84(IBT)+560(PBT)/ I:6.5**
+e. Toefl/IELTs: **T:84(IBT)+560(PBT)/ I:6.5**
 
 f. Gpa: **3.7(av)**
 
@@ -191,7 +194,7 @@ c. Detail: Core areas of robotics, including actuation, locomotion, manipulation
 
 d. GRE V/W: **75%**
 
-e. Tofel/IELTs : **T: 80(ibt)+550(pbt) (speaking22)/ I: 6.5**
+e. Toefl/IELTs : **T: 80(ibt)+550(pbt) (speaking22)/ I: 6.5**
 
 f. Gpa :**3.0--3.5**
 
@@ -203,3 +206,24 @@ i. more information: **had published as authors or co-authors on academic public
 
 j. link: [①](https://gradschool.oregonstate.edu/programs/3250/robotics-phd-ms-minor)    [②](https://robotics.oregonstate.edu/join-us)[③](https://engineering.oregonstate.edu/robotics/doctorate-degree-robotics)
 
+
+###   
+a. Faculty:  **  **
+
+b. Tutor(title):  **  **
+
+c. Detail: **  **
+
+d. GRE V/W:  **  **
+
+e. Toefl/IELTs:  **  **
+
+f. Gpa: **  **
+
+g. Due date: **  ** 
+
+h. major background: **  **
+
+i. more information: **  **
+
+j. [link]()
