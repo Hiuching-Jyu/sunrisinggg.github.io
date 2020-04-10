@@ -7,7 +7,7 @@ tags: [jottings, AI]
 comments: true
 feature: https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Dleloris.jpg
 ---
-[toc]
+
 <font size="1" face="黑体">Tips: 移动端横屏阅读效果更佳</font>
 # A. 西部世界
 
