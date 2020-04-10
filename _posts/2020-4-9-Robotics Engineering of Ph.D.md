@@ -17,23 +17,24 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 
 <b><font size="6" face="Segoe Script">▷ Catalogue</font></b>
 
-[Carnegie Mellon University](#carnegie-mellon-university)
+[    ○ Carnegie Mellon University](#carnegie-mellon-university)
 
-[Massachusetts Institute of Technology](#massachusetts-institute-of-technology)
+[    ○ Massachusetts Institute of Technology](#massachusetts-institute-of-technology)
 
-[Georgia Institute of Technology](#georgia-institute-of-technology)
+[    ○ Georgia Institute of Technology](#georgia-institute-of-technology)
 
-[University of Colorado Boulder](#university-of-colorado-boulder)
+[    ○ University of Colorado Boulder](#university-of-colorado-boulder)
 
-[University of Southern California](#university-of-southern-california)
+[    ○University of Southern California](#university-of-southern-california)
 
-[Stanford University](#stanford-university)
+[    ○Stanford University](#stanford-university)
 
-[The University of Michigan](#the-university-of-michigan)
+[    ○The University of Michigan](#the-university-of-michigan)
 
-[Oregon State University](#cregon-state-university)
+[    ○Oregon State University](#cregon-state-university)
 
-<HR>
+
+<hr style="FILTER: alpha(opacity=100,finishopacity=0,style=1)" width="80%" color=#987cb9 SIZE=3>
 
 ## Carnegie Mellon University
 
