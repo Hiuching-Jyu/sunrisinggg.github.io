@@ -9,11 +9,9 @@ project: true
 ---
 # Us institutions offering robotics LABS and ph.D courses
 
-####   
+###   
 a. Faculty:  **  **
-
 b. Tutor(title):  **  **
-
 c. Detail: **  **
 
 d. GRE V/W:  **  **
@@ -31,18 +29,18 @@ i. more information: **  **
 j. [link]()
 
 
-####   Carnegie Mellon University
+###   Carnegie Mellon University
 a. Faculty:  ** School of Computer Science**
 
-b. Tutor(title):  ** [link](https://www.ri.cmu.edu/?taxonomy=faculty-caterogy&term=research-hub) **
+b.    [Tutor(title):](https://www.ri.cmu.edu/?taxonomy=faculty-caterogy&term=research-hub) 
 
-c. Detail: **  **
+c. Detail: 
 
-d. GRE V/W:  **  **
+d. GRE V/W:  
 
-e. Tofel/IELTs:  **T: 100(ibt,min)/ I: 7 **
+e. Tofel/IELTs: **T: 100(ibt,min)/ I: 7**
 
-f. Gpa: **  and Class Rank**
+f. Gpa: **with Class Rank**
 
 g. Due date: **Dec.2** 
 
@@ -60,12 +58,10 @@ i. Prerequisites:
 
 2. others
 
-j. links: [①Robotics](https://www.ri.cmu.edu/education/academic-programs/doctoral-robotics-program/)
-
-[②CSC general](https://scsdean.cs.cmu.edu/admissions/faq.html)
+j. links: [①Robotics](https://www.ri.cmu.edu/education/academic-programs/doctoral-robotics-program/) [②CSC general](https://scsdean.cs.cmu.edu/admissions/faq.html)
 
 
-####   MIT
+###   MIT
 a. Faculty:  **EE&CS/ME/Mathmatics/Aeronautics and Astronautics**
 
 b. Tutor(title):  
@@ -74,7 +70,7 @@ c. Detail:
 
 d. GRE V/W:  **NO NEED** (CS&EE)
 
-e. Tofel/IELTs:  **T: 100(ibt) / I: 7 **
+e. Tofel/IELTs:  **T: 100(ibt) / I: 7**
 
 f. Gpa: NI 
 
@@ -94,7 +90,7 @@ j. [link for CS institution](http://www.eecs.mit.edu/academics-admissions/gradua
 
 k. research oportunity: 
 
-####  Georagia Tech
+###  Georagia Tech
 a. Faculty:  ** EE&CS/ME/BE/IC/AE**
 
 b. Tutor(title):  **  **
@@ -117,7 +113,7 @@ j.links: [link for CS&EE ](http://www.gradadmiss.gatech.edu/ece)
 
 [link for Robotics ](http://phdrobotics.gatech.edu/requirements)
 
-####   University of Colorado Boulder
+###   University of Colorado Boulder
 a. Faculty:  **ME/ maybe CS**
 
 b. [Tutor(title):](https://www.colorado.edu/mechanical/research/research-focus-areas/robotics-and-systems-design-research**)
@@ -138,8 +134,30 @@ i. more information:
 
 j. [CU Boulder](https://www.colorado.edu/graduateschool/admissions/international-applicants)
 
+###   University of Southern California
+a. Faculty:  **CS**
 
-#### The University of Michigan
+b. Tutor(title):  
+
+c. Detail: 
+
+d. GRE V/W:  **  **
+
+e. Tofel/IELTs:  **T: min100 (each min20) / I: min7 (each min6)**
+
+f. Gpa: **  **
+
+g. Due date: **Dec.15** 
+
+h. major background: **  **
+
+i. more information: **  **
+
+j. [USCer General Application](https://gradadm.usc.edu/apply/international-students/)
+
+
+
+### The University of Michigan
 a. Faculty: **Rackham Graduate School** 
 
 b. Tutor(title): **click here**
@@ -162,7 +180,7 @@ j. [link](https://robotics.umich.edu/academic-program/admissions-info/ )
 
 
 
-#### Oregon State University 俄勒冈州立大学
+### Oregon State University 俄勒冈州立大学
 a. Faculty : **Engineering: Collaborative Robotics and Intelligent Systems (CoRIS) Institute**
 
 b. Tutor(title): click here
