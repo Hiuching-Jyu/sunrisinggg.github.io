@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Robotics Engineering of Ph.D (TESTING)"
+title: "Robotics Engineering of Ph.D (Keep updating)"
 date: 2020-4-9
 excerpt: "Us institutions offering robotics LABS and ph. D courses"
 tags: [programme]
@@ -219,17 +219,17 @@ j.links: [Application for CS (FAQ)](https://cs.stanford.edu/admissions/faq#b15)
 
 ![The University of Michigan](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/The University of Michigan.jpg "The University of Michigan")
 
-a. Faculty: **Rackham Graduate School** 
+a. Faculty: **Rackham Graduate School/ME** 
 
 b. Tutor(title): **click here**
 
 c. Detail: **See below**
 
-d. GRE V/W: **162+3.9(av)**
+d. GRE V/W: **162+3.9(av) scores in the 80th-90th percentile in the verbal and quantitative sections**
 
-e. Toefl/IELTs: **T:84(IBT)+560(PBT)/ I:6.5**
+e. Toefl/IELTs: **T: min84(IBT)+560(PBT)/ I:6.5**
 
-f. Gpa: **3.7(av)**
+f. Gpa: **3.7(min)**
 
 g. Due date: **Dec.15**
 
