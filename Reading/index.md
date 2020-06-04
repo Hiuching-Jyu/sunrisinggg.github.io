@@ -1,5 +1,5 @@
 ---
-layout: post-list
+layout: reading-list
 title: Reading notes
 excerpt: "A List of Post"
 comments: false
