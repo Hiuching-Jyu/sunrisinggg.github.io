@@ -289,7 +289,6 @@ NI: No Information
 （所以啊，改行用Github Markdown 的**锚点**功能呗）格式是：
 ![Format](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/temp1.png "Format")
 
-
 2.由我那**忠实**的github desktop提供的下图~~易~~得，真就还是有坑呗......就是中间的空格用-代替，并且全部大写要转换成小写 --> --> 好吧我输了	
 
 ![Screenshot](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/screenshot.png "screenshot")
