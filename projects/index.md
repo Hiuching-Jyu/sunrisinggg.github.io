@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Study Notes
+title: AI Notes or others
 excerpt: "A List of Projects"
 comments: false
 ---
