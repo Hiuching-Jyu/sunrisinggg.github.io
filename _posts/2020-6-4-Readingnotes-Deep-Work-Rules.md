@@ -3,19 +3,21 @@ layout: post
 title: "Deep Work Rules"
 date: 2020-3-25
 excerpt: "Rules for Focused Success in a Distracted World. "
-tags: [jottings, AI]
+tags: [Readingnotes]
 comments: true
 project: true
 ---
 
 # 阅读笔记之《深度工作：如何有效使用每一点脑力》
 Writer: Cal Newport
+
+
 My Reading time: From Apr. 17 2020 to now
-> Reading itself builds me up a lot when I'm restless, not to mention a book like this that offers a lot of excellent actionable advice.  --Me
+
+
+Reading itself builds me up a lot when I'm restless, not to mention a book like this that offers a lot of excellent actionable advice.  --Me
 
 ## ◆ 前言
-
- 以此实现职业生活中的深度工作——这项任务要求投入时间、精力和金钱。
 
  如果我如此安排生活，能够得到很长的、连续的、不受人打扰的时间，我就能写作小说。反之，如果我备受打扰又会怎样？不会有一部传世的小说……而是会有许多封发给个人的电子邮件。
 
