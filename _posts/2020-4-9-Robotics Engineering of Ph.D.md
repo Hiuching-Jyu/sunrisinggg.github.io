@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Robotics Engineering of Ph.D (Keep updating)"
+title: "Robotics Engineering of Ph.D"
 date: 2020-4-9
 excerpt: "Us institutions offering robotics LABS and ph. D courses"
 tags: [programme]
@@ -10,6 +10,7 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 ---
 
 <center><big><b>This blog will present a couple of Us institutions offering robotics Labs and Ph.D. courses with other details.</b></big></center>
+<center><small>This blog won't be updated until the US-China relationship eases.</small></center>
 <center><small>(Note that you should <b>include a link to this article</b> if you really need to reprint it. )</small></center>
 ![Baymax](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D./Baymax.gif "Baymax")
 
