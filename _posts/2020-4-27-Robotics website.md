@@ -5,7 +5,7 @@ date: 2020-4-27
 excerpt: "Some useful websites of Robotics"
 tags: [Robotics]
 comments: true
-Robotics: true
+robotics: true
 ---
 
 1. https://www.robotics.org/
