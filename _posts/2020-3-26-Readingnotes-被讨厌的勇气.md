@@ -5,7 +5,7 @@ date: 2020-3-26
 excerpt: "READING NOTES"
 tags: [Readingnotes]
 comments: true
-reading: ture
+reading: true
 ---
 
 <font size="1" face="黑体">Tips: 移动端横屏阅读可显示图片</font>
