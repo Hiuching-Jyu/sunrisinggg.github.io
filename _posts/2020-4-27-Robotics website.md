@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Websites to Learn Robotics "
+title: "Websites of Robotics "
 date: 2020-4-27
 excerpt: "Some useful websites of Robotics"
 tags: [Robotics]
@@ -30,6 +30,8 @@ robotics: true
 10. [http://www.therobotreport.com/](http://www.therobotreport.com/)
 
 11. [https://www.zdnet.com/blog/robotics/](https://www.zdnet.com/blog/robotics/)
+
+# Robotics Learning Websites
 
 ## Perception
 
