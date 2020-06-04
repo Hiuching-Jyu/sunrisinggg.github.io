@@ -285,7 +285,8 @@ NI: No Information
 所以，坑有：
 1.github 有自己的markdown语法，而且**真**就**刚刚好**的**非常凑巧**的没有目录这个语法  [链接给你，爱信不信](https://guides.github.com/features/mastering-markdown/)
 
-（所以啊，改行用Github Markdown 的**锚点**功能呗）格式是："[显示的内容](要穿越到的内容)" ---->去掉双引号就是格式啦
+（所以啊，改行用Github Markdown 的**锚点**功能呗）格式是：
+![Format](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/temp1.png "Format")
 
 ![Screenshot](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/screenshot.png "screenshot")
 
