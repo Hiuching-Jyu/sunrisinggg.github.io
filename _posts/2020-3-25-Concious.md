@@ -11,7 +11,7 @@ feature: https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/mas
 <font size="1" face="黑体">Tips: 移动端横屏阅读效果更佳</font>
 # A. 西部世界
 
->"One man's life or death were but a small price to pay for the acquirement of **self-consciousness** which I sought; for the dominion I should acquire and transmit over **myself**."----Adapted by me from  *WESTWORLD*
+> "One man's life or death were but a small price to pay for the acquirement of **self-consciousness** which I sought; for the dominion I should acquire and transmit over **myself**."----Adapted by me from  *WESTWORLD*
 
 这句话标粗的地方是我改动的地方，或许*WESTWORLD*已经暴露了一部分随笔的内容，但既然言之随笔，则不会囿于该剧。在某种层面上，我应该感谢这个疫情给我带来了gap monthes，让我有勉强够（却永远无法满足）的时间去接近迷宫中心的自己。
 
@@ -78,7 +78,7 @@ feature: https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/mas
 <font size="1" face="黑体">[4]举个例子，父母与孩子之间也应该是横向关系。阿德勒心理学既不支持批评也不支持表扬。表扬和鼓励其实是不同的表达方式，而我们经常混为一谈。在这个情境中，父母对孩子说“你做的真好（棒，不错）。”这句话时，是希望通过赞美的语言操纵孩子向好的方向发展。而这种“表扬”背后是一种上下级和纵向关系。表扬他人的目的在于“操纵”比自己能力低的对方。而做到横向关系，我们应该在表达中融入自己的真诚感情（感谢、尊敬或对事情的真实看法），比如说“想法真有趣”“太感谢你了”......而表扬在说话者看来没有问题，在接受者角度，ta会因为希望得到表扬而迎合表扬者，自此形成不平等的<b>支配别人课题</b>的“纵向关系”</font><br />
 ### C.1.3回归个体
 
->You think the grief will make you smaller inside,like your heart will collapse in on itself,but,it doesn't.I feel spaces opening up inside.
+> You think the grief will make you smaller inside,like your heart will collapse in on itself,but,it doesn't.I feel spaces opening up inside.
 
 我发现，人活这一生确确实实是为了自己，分离课题是为了寻找回自己勇敢面对现实的“勇气”，投入共同体也是为了满足自己的归属感，何不放开那些教科书的枷锁？追寻自己本真的意识呢？在用这种方式融入整体时，可能真的会感到痛苦和悲伤，因为自己的真诚不为人所感知，在“别人的课题”里，依然把你当做是“竞争者”，但是那有何妨？我不会因为害怕“别人对我进行挑战“这一课题而退缩（或是搬出”过去的我“的原因作为借口），我所要做的是大方迎战，这是我的课题，我有健全的自卑感----来自对自己的期望（而不是别人的压力）。我最终追求的不是一件切确的事情，而是一种不确定的，充满未知的，充满魅力的境界，因此通向这个境界的也未必只有一条路。面对想通过竞争打败我的“伙伴”，我可以用实力战胜，也可以败退之后大方告辞，继续寻找自己的境界。考试？事情？学校？他们都只是一种手段，可收可放，不为某个切确的目的而存在。“今天就为此而存在，不是为了遥远的将来的考试存在。”
 
