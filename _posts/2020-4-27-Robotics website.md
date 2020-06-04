@@ -35,7 +35,7 @@ robotics: true
 
 ## Perception
 
-1. [Introduction to Computer Vision - Georgia Tech | Udacity](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
+1. [Introduction_to_Computer_Vision_Georgia_Tech_|_Udacity](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 
 2. [Robotics: Perception - University of Pennsylvania | Coursera](https://www.coursera.org/learn/robotics-perception)
 
