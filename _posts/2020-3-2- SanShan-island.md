@@ -4,6 +4,7 @@ title: "Where is my island?"
 date: 2020-2-3
 excerpt: "Was it lost in my childhood?"
 tags: [jottings]
+post: ture
 ---
 <script type="text/javascript" src="http://tajs.qq.com/stats?sId=66526224" charset="UTF-8"></script>
 # 我的曾经的小岛渐渐消失了

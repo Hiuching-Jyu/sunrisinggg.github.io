@@ -5,6 +5,7 @@ date: 2020-3-25
 excerpt: "About the Westworld, Avatars, and Self-consciousness. "
 tags: [jottings, AI]
 comments: true
+post: ture
 feature: https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Dleloris.jpg
 ---
 

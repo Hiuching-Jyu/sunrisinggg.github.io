@@ -5,7 +5,7 @@ date: 2020-3-25
 excerpt: "Rules for Focused Success in a Distracted World. "
 tags: [Readingnotes]
 comments: true
-project: true
+Reading: true
 ---
 
 # 阅读笔记之《深度工作：如何有效使用每一点脑力》
