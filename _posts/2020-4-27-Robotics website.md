@@ -37,7 +37,7 @@ robotics: true
 
 2. [Robotics: Perception - University of Pennsylvania | Coursera](https://www.coursera.org/learn/robotics-perception)
 
-3.[Robotic Vision - QUT | QUT Open Online Learning](https://www.qut.edu.au/study/open-online-learning)
+3. [Robotic Vision - QUT | QUT Open Online Learning](https://www.qut.edu.au/study/open-online-learning)
 
 ## Control and Mobility
 
@@ -62,3 +62,5 @@ robotics: true
 2. [Robotics: Computational Motion Planning - University of Pennsylvania | Coursera](https://www.coursera.org/learn/robotics-motion-planning)
 
 3. [Learning From Data - CalTech](https://work.caltech.edu/telecourse.html)
+
+Keep Updating......
