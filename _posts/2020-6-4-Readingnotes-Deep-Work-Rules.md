@@ -13,7 +13,7 @@ Writer: Cal Newport
 ![Deep work rules](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Readingnotespho/Deep_work.jpg "Deep work rules")
 My Reading time: From Apr. 17 2020 to now
 
-Reading itself builds me up a lot when I'm restless, not to mention a book like this that offers a lot of excellent actionable advice.  - - - -Me
+<font size="3" face="Comic Sans MS"> Reading itself builds me up a lot when I'm restless, not to mention a book like this that offers a lot of excellent actionable advice.  - - - -Me</font>
 
 ## ◆ 前言
 
