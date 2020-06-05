@@ -37,14 +37,18 @@ It is a poem adapted by me from Kailing Wang's prose "精神明亮的人".
 ![poem](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/sunrise.jpg"poem")
 
 ## 2. How does the blog work?
-<br>There are four modules --- **"Somniloquys"** , **"Reading notes"** , **"Robotics"** , **"AI or others"** now. 
-<br> **"Somniloquys"** is for some daily thoughts （I am not sure whether they will be accepted, so I would like to say them in the form of somnlioquy )and the latter one is for study notes.
-<br> **"Reading notes"** is used to excerpt sentences from some of the reading(or read) books.
-<br> **"Robotics"** includes some information about robotics and current study information.
-<br>  **"AI or others"** contains something like Deep Learning and Gaming.
+There are four modules --- **"Somniloquys"** , **"Reading notes"** , **"Robotics"** , **"AI or others"** now. 
+
+ **"Somniloquys"** is for some daily thoughts （I am not sure whether they will be accepted, so I would like to say them in the form of somnlioquy )and the latter one is for study notes.
+
+ **"Reading notes"** is used to excerpt sentences from some of the reading(or read) books.
+
+ **"Robotics"** includes some information about robotics and current study information.
+
+ **"AI or others"** contains something like Deep Learning and Gaming.
 
 ## 3. What new function will be added?
-<br>I dont' know Hahaha.
+I dont' know Hahaha.
 
 It would be great if you could tell me that!
 
