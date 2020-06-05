@@ -39,6 +39,8 @@ post: true
 
   <font size="5"><center>卡卢索桥</center></font>
 
+  <font size="2" face="Comic Sans MS"><center>翻译自张索时</center></font>
+
   <font size="3"><center>那个站在桥上的瞎子，</center></font>
 
  <font size="3"><center>如同无名国度的灰色界石，</center></font>
