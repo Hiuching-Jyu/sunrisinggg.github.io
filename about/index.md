@@ -34,7 +34,7 @@ Greeting the sunrise,
 It is a poem adapted by me from Kailing Wang's prose "精神明亮的人".
 ```
 
-![poem](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/sunrise.jpg "poem")
+![poem](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Poems/sunrise.jpg "poem")
 
 ## 2. How does the blog work?
 There are four modules --- **"Somniloquys"** , **"Reading notes"** , **"Robotics"** , **"AI or others"** now. 
