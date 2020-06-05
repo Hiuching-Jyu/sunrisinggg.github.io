@@ -9,8 +9,10 @@ comments: true
 ---
 
 # 阅读笔记之《深度工作：如何有效使用每一点脑力》
-Writer: Cal Newport
-My Reading time: From Apr. 17 2020 to now
+<center>Writer: Cal Newport</center>
+
+<center>My Reading time: From Apr. 17 2020 to now</center>
+
 <font size="3" face="Comic Sans MS"> Reading itself builds me up a lot when I'm restless, not to mention a book like this that offers a lot of excellent actionable advice.  - - - -Me</font>
 
 ![Deep work rules](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Readingnotespho/Deep_work.jpg "Deep work rules")
