@@ -43,6 +43,7 @@ post: true
   <font size="5"><center>卡卢索桥</center></font>
 
   <font size="2" face="Comic Sans MS"><center>翻译自张索时</center></font>
+  <br>
 
   <font size="3"><center>那个站在桥上的瞎子，</center></font>
 
@@ -56,7 +57,6 @@ post: true
 
  <font size="3"><center>因为他周围的一切在迷路啊，流转啊，炫耀啊。</center></font>
  <br>
- 
  <font size="3"><center>他是岿然不动的端正，</center></font>
 
  <font size="3"><center>出示于纷乱的歧路间；</center></font>
