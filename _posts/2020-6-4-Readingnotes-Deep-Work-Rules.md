@@ -13,7 +13,7 @@ comments: true
 
 <center>My Reading time: From Apr. 17 2020 to now</center>
 
-<font size="3" face="Comic Sans MS"> `Reading itself builds me up a lot when I'm restless, not to mention a book like this that offers a lot of excellent actionable advice.  - - - -Me`</font>
+> <font size="3" face="Comic Sans MS"> Reading itself builds me up a lot when I'm restless, not to mention a book like this that offers a lot of excellent actionable advice.  - - - -Me</font>
 
 ![Deep work rules](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Readingnotespho/Deep_work.jpg "Deep work rules")
 ## ◆ 前言
