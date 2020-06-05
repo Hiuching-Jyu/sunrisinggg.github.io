@@ -9,7 +9,7 @@ post: true
 ---
 
 ![Handwriting1](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Poems/handwriting1.jpg "Handwriting1")
-
+<br>
 
 <font size="5" face="Comic Sans MS"><center>PONT DU CARROUSEL</center></font>
 
@@ -61,7 +61,7 @@ post: true
 
  <font size="3"><center>出示于纷乱的歧路间；</center></font>
 
- <font size="3"><center>而于浅薄浮荡之辈</center</font>
+ <font size="3"><center>而于浅薄浮荡之辈</center></font>
 
  <font size="3"><center>则是通向地狱的黑暗之门。</center></font>
 
