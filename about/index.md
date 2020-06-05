@@ -40,13 +40,13 @@ It is a poem adapted by me from Kailing Wang's prose "精神明亮的人".
 <br>There are four modules --- **"Somniloquys"** , **"Reading notes"** , **"Robotics"** , **"AI or others"** now. 
 <br> **"Somniloquys"** is for some daily thoughts （I am not sure whether they will be accepted, so I would like to say them in the form of somnlioquy )and the latter one is for study notes.
 <br> **"Reading notes"** is used to excerpt sentences from some of the reading(or read) books.
-<br> 
+<br> **"Robotics"** includes some information about robotics and current study information.
+<br>  **"AI or others"** contains something like Deep Learning and Gaming.
 
 ## 3. What new function will be added?
-<br>1.Comment area for customers (I am now searching for a free comment plug-in)
-<br>2.The timeline of the article
-<br>3.......
+<br>I dont' know Hahaha.
 
+It would be great if you could tell me that!
 
 
 
