@@ -10,11 +10,10 @@ comments: true
 
 # 阅读笔记之《深度工作：如何有效使用每一点脑力》
 Writer: Cal Newport
-![Deep work rules](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Readingnotespho/Deep_work.jpg "Deep work rules")
 My Reading time: From Apr. 17 2020 to now
-
 <font size="3" face="Comic Sans MS"> Reading itself builds me up a lot when I'm restless, not to mention a book like this that offers a lot of excellent actionable advice.  - - - -Me</font>
 
+![Deep work rules](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Readingnotespho/Deep_work.jpg "Deep work rules")
 ## ◆ 前言
 
  如果我如此安排生活，能够得到很长的、连续的、不受人打扰的时间，我就能写作小说。反之，如果我备受打扰又会怎样？不会有一部传世的小说……而是会有许多封发给个人的电子邮件。
