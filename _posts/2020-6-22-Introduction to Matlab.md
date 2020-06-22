@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Introduction to Matlab"
@@ -7,7 +6,6 @@ excerpt: "Use jupyter notebook to practice Matlab"
 tags: [Notes,AI]
 project: true
 comments: true
-
 ---
 
 ## Hi,there! Let's get start with Matlab from here!
@@ -175,7 +173,4 @@ m(5) = m(6)
         0.9058    0.0975    0.5469
         0.1000    0.0975    0.9575
     
-    
-    
-
-
+  
