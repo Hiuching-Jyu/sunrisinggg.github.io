@@ -14,7 +14,7 @@ comments: true
 name="ifd"
 onload="this.height=ifd.document.body.scrollHeight" 
 width="100%" scrolling="yes"
-height=100%
+height=700
 frameborder="0"
 src="https://nbviewer.jupyter.org/github/SUNRISINGGG/sunrisinggg.github.io/blob/master/_posts/2020-6-22-Introduction%20to%20Matlab.ipynb" ></iframe>
 
