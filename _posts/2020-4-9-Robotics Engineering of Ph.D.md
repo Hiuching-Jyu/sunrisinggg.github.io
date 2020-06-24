@@ -12,7 +12,7 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 <center><big><b>This blog will present a couple of Us institutions offering robotics Labs and Ph.D. courses with other details.</b></big></center>
 <center><small>This blog won't be updated until the US-China relationship eases.</small></center>
 <center><small>(Note that you should <b>include a link to this article</b> if you really need to reprint it. )</small></center>
-![Baymax](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D./Baymax.gif "Baymax")
+![Baymax](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/baymax.gif "Baymax")
 
 ***
 
@@ -39,7 +39,7 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 
 ## Carnegie Mellon University
 
-![Carnegie Mellon University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D./Carnegie Mellon University.jpg "Carnegie Mellon University")
+![Carnegie Mellon University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Carnegie Mellon University.jpg "Carnegie Mellon University")
 
 a. Faculty:  **School of Computer Science**
 
