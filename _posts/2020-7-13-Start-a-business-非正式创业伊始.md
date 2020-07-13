@@ -24,10 +24,10 @@ I have to say, 西浦真的是一个充满机遇的地方，很多次它都能�
 
 1. 公众号：一课工作室
 
-![公众号二维码] (https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/一课工作室/一课工作室公众号.jpg "公众号二维码")
+![公众号二维码](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/一课工作室/一课工作室公众号.jpg "公众号二维码")
 
 2. 抖音昵称：一课工作室
 
-![抖音二维码] (https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/一课工作室/一课工作室抖音.jpg "抖音二维码")
+![抖音二维码](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/一课工作室/一课工作室抖音.jpg "抖音二维码")
 3. b站昵称：一课Studio
 
