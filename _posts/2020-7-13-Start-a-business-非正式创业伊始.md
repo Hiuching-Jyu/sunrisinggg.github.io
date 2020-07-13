@@ -6,7 +6,7 @@ excerpt: "A record of the beginning of the business with the XJTLU team. "
 tags: [jottings]
 comments: true
 post: true
-feature: https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/一课工作室/一课工作室logo.jpg
+
 ---
 
 
