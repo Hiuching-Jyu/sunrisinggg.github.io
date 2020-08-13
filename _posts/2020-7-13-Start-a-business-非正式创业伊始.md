@@ -6,7 +6,7 @@ excerpt: "A record of the beginning of the business with the XJTLU team. "
 tags: [jottings]
 comments: true
 post: true
-
+timeline: true
 ---
 
 

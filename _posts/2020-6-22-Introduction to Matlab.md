@@ -6,6 +6,7 @@ excerpt: "Use jupyter notebook to practice Matlab"
 tags: [Notes,AI]
 project: true
 comments: true
+timeline: true
 ---
 
 

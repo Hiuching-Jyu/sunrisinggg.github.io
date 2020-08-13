@@ -6,6 +6,7 @@ excerpt: "The neural network of deep learning used to realize spot recognition"
 tags: [Notes,Deep-learning]
 project: true
 comments: true
+timeline: true
 ---
 <script type="text/javascript" src="http://tajs.qq.com/stats?sId=66526224" charset="UTF-8"></script>
 

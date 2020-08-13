@@ -6,6 +6,7 @@ excerpt: "About the Westworld, Avatars, and Self-consciousness. "
 tags: [jottings, AI]
 comments: true
 post: true
+timeline: true
 feature: https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/concious/Dleloris.jpg
 ---
 
