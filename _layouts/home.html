@@ -78,9 +78,9 @@ layout: compress
                     {% if post.timeline %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}"><p>{{ post.title }} <h5>{{ post.date | date_to_string }}</h5></p></a>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
-                            <p>{{ post.excerpt }}</p>
+                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}"><p>{{ post.title }} </p></a>
+                            <p>Excerpt: {{ post.excerpt }}</p>
+                            <h5>{{ post.date | date_to_string }}</h5>
                         </li>
                         <hr class="hr-line">
                     </ul>
