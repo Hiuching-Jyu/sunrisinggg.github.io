@@ -72,7 +72,7 @@ layout: compress
             <div class="content">
                 <div class="post-title">
                     <h1>Time-based Archiving</h1>
-                    <h4>You can find <b>new<b/> article here easily.</h4>
+                    <h4>You can find <b>new<b/> articles here more easily.</h4>
                 <div class="post-list">
                     {% for post in site.posts %}
                     {% if post.timeline %}
@@ -81,6 +81,7 @@ layout: compress
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <p>{{ post.date | date_to_string }}</p>
                             <p>{{ post.excerpt }}</p>
+                            <p>{{ post.feature }}</p>
                         </li>
                         <hr class="hr-line">
                     </ul>
