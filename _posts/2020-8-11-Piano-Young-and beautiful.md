@@ -14,3 +14,8 @@ timeline: true
 <video width="600" height="450" controls>
     <source src="https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Poems/YAB.mp4" type="video/mp4">
 </video>
+
+演奏者：Thea
+演奏设备：Korg d1电钢
+录音设备：iphone 8
+音乐&视频后期：Thea
