@@ -16,6 +16,9 @@ timeline: true
 </video>
 
 演奏者：Thea
+
 演奏设备：Korg d1电钢
+
 录音设备：iphone 8
+
 音乐&视频后期：Thea
