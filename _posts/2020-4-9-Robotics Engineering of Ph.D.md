@@ -6,6 +6,7 @@ excerpt: "Us institutions offering robotics LABS and ph. D courses"
 tags: [Robotics]
 comments: true
 robotics: true
+timeline:true
 feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets/img/Robotics%20Engineering%20of%20Ph.D/abc.jpg?raw=true
 ---
 
