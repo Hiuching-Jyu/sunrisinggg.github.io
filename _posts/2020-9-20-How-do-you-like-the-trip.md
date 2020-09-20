@@ -10,8 +10,7 @@ timeline: true
 ---
 
 <b><center><font size="4" face="Segoe Script">碎碎念</font></center></b>
-<iframe name="music" src="https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/工博会/music.mp3" marginwidth="1px" marginheight="20px" width=100% height="80px" frameborder=1 　scrolling="yes"></iframe>
-<b>秋风起的时候，仿佛我的寂寞可以慢慢扩大成一所没有边界的空房子。暗潮长期在房子里面，它们拍打着四周的墙壁，不断互相激荡发出回声，于是我那寂寞的感受愈发强烈。这是一种令人向往而及其稀少的感受，我时常想去寻找一位诗人，与他那清澈而宁静的目光相视，而他向我讲述除了世间的喧嚣外那些沉静而深刻的事物。但是这只是一个理想化的愿望，一方面我没法真正抽身所在的世界，时间、物质于我而言都不充裕；另一方面，我找不到这样的诗人，里尔克？他不真实。</b>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=26450090&auto=1&height=66"></iframe><b>秋风起的时候，仿佛我的寂寞可以慢慢扩大成一所没有边界的空房子。暗潮长期在房子里面，它们拍打着四周的墙壁，不断互相激荡发出回声，于是我那寂寞的感受愈发强烈。这是一种令人向往而及其稀少的感受，我时常想去寻找一位诗人，与他那清澈而宁静的目光相视，而他向我讲述除了世间的喧嚣外那些沉静而深刻的事物。但是这只是一个理想化的愿望，一方面我没法真正抽身所在的世界，时间、物质于我而言都不充裕；另一方面，我找不到这样的诗人，里尔克？他不真实。</b>
 
 对于这场临时起意的短途参展，我向同伴们说，我去看展览是想去了解所处的行业前沿，以便明确自己未来的发展方向。我纠结了一天后，向导师请求推迟周例会面，买好高铁票，定好青年旅社，收拾好行装，在周五早课结束后踏着淅淅沥沥的雨只身前往上海。
 
