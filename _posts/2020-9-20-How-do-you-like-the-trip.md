@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "How do you like the trip (not just exhibition)?"
+title: "An essay on a trip to CIIE?"
 date: 2020-9-20
-excerpt: "An essay on a trip to CIIE. "
 tags: [jottings]
 comments: true
 post: true
