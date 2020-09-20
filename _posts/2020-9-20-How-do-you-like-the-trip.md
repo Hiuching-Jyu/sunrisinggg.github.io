@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An essay on a trip to CIIE"
+title: "An essay on a trip to CIIE 参展游记"
 date: 2020-9-20
 excerpt: "China International Indusrtial Exhibition. "
 tags: [jottings]
