@@ -18,7 +18,7 @@ timeline: true
 
 （移动机器人四代发展史：导轨AGV -- 二维码AGV（自主移动、灵活实施提升）-- 激光AMR（高校协同提升）-- 视觉AMR（快速部署和其他都有提升）
 
-	1. <b>灵动科技</b> http://cn.forwardx.com/
+1. <b>灵动科技</b> http://cn.forwardx.com/
 
 		a. Max AMR家族
 
@@ -26,7 +26,7 @@ timeline: true
 
 		c. F(x)集群调度系统
 
-	2. <b>SEER仙工智能</b> https://www.seer-group.com/
+2. <b>SEER仙工智能</b> https://www.seer-group.com/
 
 		a. AMB系列 无人搬运底盘
 
@@ -34,13 +34,13 @@ timeline: true
 
 		c. 基于SRC的激光SLAM自动叉车
 
-	3. <b>集萃制造</b> http://www.iimt.org.cn/
+3. <b>集萃制造</b> http://www.iimt.org.cn/
 
 		a. 轻型协作机器人
 
 		b. 无人清洗车
 
-	4. <b>Standard Robots</b> 
+4. <b>Standard Robots</b> 
 
 		a. Gulf-1400-CDD搬运式叉车机器人
 
@@ -51,7 +51,7 @@ timeline: true
 
 <b><center><font size="3" face="Segoe Script">AMR机器人功能模块整合：</font></center></b>
 
-	1. <b>安全防护</b>
+1. <b>安全防护</b>
 
 		a. <b>斯坦德</b>
 
