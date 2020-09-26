@@ -18,7 +18,7 @@ timeline: true
 
 （移动机器人四代发展史：导轨AGV -- 二维码AGV（自主移动、灵活实施提升）-- 激光AMR（高校协同提升）-- 视觉AMR（快速部署和其他都有提升）
 
-1. <b>灵动科技</b> http://cn.forwardx.com/
+1. <b>灵动科技</b> [http://cn.forwardx.com/](http://cn.forwardx.com/)
 
     1. Max AMR家族
 
@@ -26,7 +26,7 @@ timeline: true
 
     3. F(x)集群调度系统
 
-2. <b>SEER仙工智能</b> https://www.seer-group.com/
+2. <b>SEER仙工智能</b> [https://www.seer-group.com/](https://www.seer-group.com/)
 
     1. AMB系列 无人搬运底盘
 
@@ -34,7 +34,7 @@ timeline: true
 
     3. 基于SRC的激光SLAM自动叉车
 
-3. <b>集萃制造</b> http://www.iimt.org.cn/
+3. <b>集萃制造</b> [http://www.iimt.org.cn/](http://www.iimt.org.cn/)
 
     1. 轻型协作机器人
 
@@ -102,7 +102,7 @@ timeline: true
 
     1. 聚焦于包括 伺服电机驱动系统、步进电机驱动系统、运动控制卡、运动控制器等产品的研发、生产和销售。
 
-    2. 官网：https://www.leisai.com/index.html
+    2. 官网：[https://www.leisai.com/index.html](https://www.wago.com/cn/)
 
     3. 产品
 
@@ -120,7 +120,7 @@ timeline: true
 
     1. 专注于电气连接技术、工业接口模块、自动化控制技术等
 
-    2. 官网：https://www.wago.com/cn/ 
+    2. 官网：[https://www.wago.com/cn/](https://www.wago.com/cn/) 
 
     3. 产品
 
@@ -150,7 +150,7 @@ timeline: true
 
 	1. 产品包括自动化系统、CNC系统、运动控制、风能系统、安全技术、伺服控制器、伺服电机、电机部件、工程工具、磁浮轴承技术、主轴技术
 
-	2. 官网：https://www.keba.com/en/home
+	2. 官网：[https://www.keba.com/en/home](https://www.keba.com/en/home)
 
 	3. 展出产品
 
@@ -174,7 +174,7 @@ timeline: true
 
 	1. 专注于人机交互、运动控制器、伺服驱动器、伺服电机、集成式电机、编码器
 
-	2. 官网：http://www.servotronix.com/?lang=zh-hans
+	2. 官网：[http://www.servotronix.com/?lang=zh-hans](http://www.servotronix.com/?lang=zh-hans)
 
 	3. 部分展出产品：
 
@@ -195,13 +195,14 @@ timeline: true
 
 		1. 致力于传动元件事业，主要产品包括 滚珠螺杆、线性滑轨、滚珠花键、旋转式滚珠螺杆/花键、单轴机器人、直线轴承、联轴器、螺杆支撑座……
 
-		2. 官网网址：https://www.tbimotion.com.tw/zh-CN/index.html
+		2. 官网网址：[https://www.tbimotion.com.tw/zh-CN/index.html](https://www.tbimotion.com.tw/zh-CN/index.html) 
+
 
 	2. THK
 
 		1. 开发直线运动 (LM. 导轨机构的先驱以及许多其他独特的机械组件，包括滚珠花键、滚珠丝杠和连杆球
 
-		2. 官网网址：https://www.thk.com/?q=cn
+		2. 官网网址：[https://www.thk.com/?q=cn](https://www.thk.com/?q=cn)
 
 2. <b>激光雷达</b>
 
