@@ -20,40 +20,40 @@ timeline: true
 
 1. <b>灵动科技</b> http://cn.forwardx.com/
 
-		a. Max AMR家族
+a. Max AMR家族
 
-		b. 灵动科技Flex AMR家族
+b. 灵动科技Flex AMR家族
 
-		c. F(x)集群调度系统
+c. F(x)集群调度系统
 
 2. <b>SEER仙工智能</b> https://www.seer-group.com/
 
-		a. AMB系列 无人搬运底盘
+a. AMB系列 无人搬运底盘
 
-		b. SRC系列 核心控制器
+b. SRC系列 核心控制器
 
-		c. 基于SRC的激光SLAM自动叉车
+c. 基于SRC的激光SLAM自动叉车
 
 3. <b>集萃制造</b> http://www.iimt.org.cn/
 
-		a. 轻型协作机器人
+a. 轻型协作机器人
 
-		b. 无人清洗车
+b. 无人清洗车
 
 4. <b>Standard Robots</b> 
 
-		a. Gulf-1400-CDD搬运式叉车机器人
+a. Gulf-1400-CDD搬运式叉车机器人
 
-		b. AMR-600移动机器人
+b. AMR-600移动机器人
 
-        c. 移动复合消毒机器人
+c. 移动复合消毒机器人
 
 
 <b><center><font size="3" face="Segoe Script">AMR机器人功能模块整合：</font></center></b>
 
 1. <b>安全防护</b>
 
-		a. <b>斯坦德</b>
+a. <b>斯坦德</b>
 
 			i. 360°双雷达+3-3D摄像头+TOFs传感器+超声组合
 
