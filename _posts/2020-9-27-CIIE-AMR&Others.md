@@ -187,7 +187,7 @@ timeline: true
 		4. CDHD2高性能伺服驱动器
 
 
-<b><fontsize="3" face="Segoe Script">自动化配件</font></b>
+<b><center><fontsize="3" face="Segoe Script">自动化配件</font></center></b>
 
 1. <b>滚珠丝杆</b>（网站均有附产品信息、CAD数据、寿命计算等服务） 
 
