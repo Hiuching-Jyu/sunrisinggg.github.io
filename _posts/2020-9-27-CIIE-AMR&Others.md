@@ -240,8 +240,6 @@ timeline: true
 
 		4. 通讯协议：Modbus RTU(RS485),Digital I/O
 
-					
-
-	
+<b>下期预告：协作机器人四大家族：ABB、FANUC、KUKA、安川电机，新松SIASUN，遨博机器人，节卡机器人、爱普生机器人、梅卡曼德等协作机器人介绍</b>
 
 
