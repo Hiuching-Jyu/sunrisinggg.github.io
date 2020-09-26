@@ -49,7 +49,7 @@ timeline: true
     3. 移动复合消毒机器人
 
 
-<b><center><font size="4" face="Segoe Script">AMR机器人功能模块整合：</font></center></b>
+<b><center><font size="4" face="Segoe Script">AMR机器人功能模块整合</font></center></b>
 
 1. <b>安全防护</b>
 
