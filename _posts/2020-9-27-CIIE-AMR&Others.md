@@ -146,98 +146,98 @@ timeline: true
 
 			e) 电缆转换模块
 
-		c. <b>KEBA AG(&LTI motion GmbH)</b>
+3. <b>KEBA AG(&LTI motion GmbH)</b>
 
-			i. 产品包括自动化系统、CNC系统、运动控制、风能系统、安全技术、伺服控制器、伺服电机、电机部件、工程工具、磁浮轴承技术、主轴技术
+	i. 产品包括自动化系统、CNC系统、运动控制、风能系统、安全技术、伺服控制器、伺服电机、电机部件、工程工具、磁浮轴承技术、主轴技术
 
-			ii. 官网：https://www.keba.com/en/home
+	ii. 官网：https://www.keba.com/en/home
 
-			iii. 展出产品
+	iii. 展出产品
 
-				1) MotionOne CNC（激光技术包）
+		1) MotionOne CNC（激光技术包）
 
-				2) KeConnect C5 I/O module(新一代I/O模块）
+		2) KeConnect C5 I/O module(新一代I/O模块）
 
-				3) KeControl C5（新一代控制系统）
+		3) KeControl C5（新一代控制系统）
 
-				4) SystemOne CM(纺织机械运动控制技术）
+		4) SystemOne CM(纺织机械运动控制技术）
 
-				5) LTI Motion 路斯特技术组合
+		5) LTI Motion 路斯特技术组合
 
-					a) 变桨伺服驱动器
+			a) 变桨伺服驱动器
 
-					b) 变桨电机
+			b) 变桨电机
 
-					c) 偏航伺服驱动器
+			c) 偏航伺服驱动器
 
-		d. <b>SERVOTRONIX</b>(被美的收购了)
+4. <b>SERVOTRONIX</b>(被美的收购了)
 
-			i. 专注于人机交互、运动控制器、伺服驱动器、伺服电机、集成式电机、编码器
+	i. 专注于人机交互、运动控制器、伺服驱动器、伺服电机、集成式电机、编码器
 
-			ii. 官网：http://www.servotronix.com/?lang=zh-hans
+	ii. 官网：http://www.servotronix.com/?lang=zh-hans
 
-			iii. 部分展出产品：
+	iii. 部分展出产品：
 
-				1) PRHD2高动态伺服电机
+		1) PRHD2高动态伺服电机
 
-				2) CDHD 高性能伺服驱动器
+		2) CDHD 高性能伺服驱动器
 
-				3) LDHD2高性能伺服驱动器
+		3) LDHD2高性能伺服驱动器
 
-				4) CDHD2高性能伺服驱动器
+		4) CDHD2高性能伺服驱动器
 
 
 <b><fontsize="3" face="Segoe Script">自动化配件</font></b>
 
-		a. <b>滚珠丝杆</b>（网站均有附产品信息、CAD数据、寿命计算等服务） 
+1. <b>滚珠丝杆</b>（网站均有附产品信息、CAD数据、寿命计算等服务） 
 
-			i. TBI（全球传动）
+	i. TBI（全球传动）
 
-				1) 致力于传动元件事业，主要产品包括 滚珠螺杆、线性滑轨、滚珠花键、旋转式滚珠螺杆/花键、单轴机器人、直线轴承、联轴器、螺杆支撑座……
+		1) 致力于传动元件事业，主要产品包括 滚珠螺杆、线性滑轨、滚珠花键、旋转式滚珠螺杆/花键、单轴机器人、直线轴承、联轴器、螺杆支撑座……
 
-				2) 官网网址：https://www.tbimotion.com.tw/zh-CN/index.html
+		2) 官网网址：https://www.tbimotion.com.tw/zh-CN/index.html
 
-			ii. THK
+	ii. THK
 
-				1) 开发直线运动 (LM) 导轨机构的先驱以及许多其他独特的机械组件，包括滚珠花键、滚珠丝杠和连杆球
+		1) 开发直线运动 (LM) 导轨机构的先驱以及许多其他独特的机械组件，包括滚珠花键、滚珠丝杠和连杆球
 
-				2) 官网网址：https://www.thk.com/?q=cn
+		2) 官网网址：https://www.thk.com/?q=cn
 
-		b. <b>激光雷达</b>
+2. <b>激光雷达</b>
 
-			i. 万集科技
+	i. 万集科技
 
-				1) 轮廓测量雷达
+		1) 轮廓测量雷达
 
-				2) 高频扫描雷达
+		2) 高频扫描雷达
 
-				3) 叉车导航雷达
+		3) 叉车导航雷达
 
-				4) SLAM导航雷达
+		4) SLAM导航雷达
 
-				5) 工业防撞雷达
+		5) 工业防撞雷达
 
-				6) 安全防护雷达
+		6) 安全防护雷达
 
-				7) 车规3D雷达
+		7) 车规3D雷达
 
-		c. 末端执行器
+3. 末端执行器
 
-			i. 大寰机器人（DH-ROBOTICS）
+	i. 大寰机器人（DH-ROBOTICS）
 
-				1) 工业薄型平行电爪
+		1) 工业薄型平行电爪
 
-				传动方式：齿轮齿条+交叉滚子导轨/直线导轨
+		传动方式：齿轮齿条+交叉滚子导轨/直线导轨
 
-				2) 协作型平行电爪
+		2) 协作型平行电爪
 
-				传动方式：齿轮齿条+T型导轨/直线导轨
+		传动方式：齿轮齿条+T型导轨/直线导轨
 
-				3) 关节型自适应电爪
+		3) 关节型自适应电爪
 
-				传动方式：私募螺杆+连杆机构（+齿轮传动）
+		传动方式：私募螺杆+连杆机构（+齿轮传动）
 
-				4) 通讯协议：Modbus RTU(RS485),Digital I/O
+		4) 通讯协议：Modbus RTU(RS485),Digital I/O
 
 					
 
