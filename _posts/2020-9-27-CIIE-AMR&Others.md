@@ -14,7 +14,7 @@ timeline: true
 
 由于协作机器人产品实在是太多了，这一篇文章放不下，也因为自己还没整理好叙述思绪，所以将协作机器人单独放在下一篇文章中。而这篇文章将会包括以下几个模块：<b>AMR企业展品、AMR机器人功能模块整合、机器人运动控制企业及信息、自动化配件企业及信息</b>（传动机构、末端执行器、激光雷达等）。
 
-<b><center><font size="3" face="Segoe Script">AMR机器人</font></center></b>
+<b><center><font size="4" face="Segoe Script">AMR机器人</font></center></b>
 
 （移动机器人四代发展史：导轨AGV -- 二维码AGV（自主移动、灵活实施提升）-- 激光AMR（高校协同提升）-- 视觉AMR（快速部署和其他都有提升）
 
@@ -49,7 +49,7 @@ timeline: true
     3. 移动复合消毒机器人
 
 
-<b><center><font size="3" face="Segoe Script">AMR机器人功能模块整合：</font></center></b>
+<b><center><font size="4" face="Segoe Script">AMR机器人功能模块整合：</font></center></b>
 
 1. <b>安全防护</b>
 
@@ -96,7 +96,7 @@ timeline: true
     3. 仙工智能：激光slam导航，定位精度+-5mm，+-0.5°
 
 
-<b><font size="3" face="Segoe Script">运动控制模块</font></b>
+<b><center><font size="4" face="Segoe Script">运动控制模块</font></center></b>
 
 1. <b>雷赛智能</b>
 
@@ -187,7 +187,7 @@ timeline: true
 		4. CDHD2高性能伺服驱动器
 
 
-<b><center><fontsize="3" face="Segoe Script">自动化配件</font></center></b>
+<b><center><fontsize="4" face="Segoe Script">自动化配件</font></center></b>
 
 1. <b>滚珠丝杆</b>（网站均有附产品信息、CAD数据、寿命计算等服务） 
 
