@@ -14,120 +14,234 @@ timeline: true
 
 由于协作机器人产品实在是太多了，这一篇文章放不下，也因为自己还没整理好叙述思绪，所以将协作机器人单独放在下一篇文章中。而这篇文章将会包括以下几个模块：<b>AMR企业展品、AMR机器人功能模块整合、机器人运动控制企业及信息、自动化配件企业及信息</b>（传动机构、末端执行器、激光雷达等）。
 
-<b><font size="3" face="Segoe Script">AMR机器人（移动机器人四代发展史：导轨AGV -- 二维码AGV（自主移动、灵活实施提升）-- 激光AMR（高校协同提升）-- 视觉AMR（快速部署和其他都有提升）</font></b>
-	1. 灵动科技 http://cn.forwardx.com/
+<b><center><font size="3" face="Segoe Script">AMR机器人</font></center></b>
+
+（移动机器人四代发展史：导轨AGV -- 二维码AGV（自主移动、灵活实施提升）-- 激光AMR（高校协同提升）-- 视觉AMR（快速部署和其他都有提升）
+
+	1. <b>灵动科技</b> http://cn.forwardx.com/
+
 		a. Max AMR家族
+
 		b. 灵动科技Flex AMR家族
+
 		c. F(x)集群调度系统
-	2. SEER仙工智能 https://www.seer-group.com/
+
+	2. <b>SEER仙工智能</b> https://www.seer-group.com/
+
 		a. AMB系列 无人搬运底盘
+
 		b. SRC系列 核心控制器
+
 		c. 基于SRC的激光SLAM自动叉车
-	3. 集萃制造 http://www.iimt.org.cn/
+
+	3. <b>集萃制造</b> http://www.iimt.org.cn/
+
 		a. 轻型协作机器人
+
 		b. 无人清洗车
-	4. Standard Robots 
+
+	4. <b>Standard Robots</b> 
+
 		a. Gulf-1400-CDD搬运式叉车机器人
+
 		b. AMR-600移动机器人
+
         c. 移动复合消毒机器人
 
 
-<b><font size="3" face="Segoe Script">AMR机器人功能模块整合：</font></b>
-	1. 安全防护：
-		a. 斯坦德
+<b><center><font size="3" face="Segoe Script">AMR机器人功能模块整合：</font></center></b>
+
+	1. <b>安全防护</b>
+
+		a. <b>斯坦德</b>
+
 			i. 360°双雷达+3-3D摄像头+TOFs传感器+超声组合
+
 			ii. 四边防撞角+四角急停按钮
+
 			iii. 报警方式：语音+灯光
-		b. 仙工智能
+
+		b. <b>仙工智能</b>
+
 			i. SRC核心控制器的安全防护
+
 				1) SRC核心控制器采用双层架构，分别为驱动层与功能层，驱动层使用稳定的嵌入式ARM芯片，功能层为智能导航以及避障算法，驱动层可以检测到功能曾发生的不可预计的错误并及时停止机器人。
+
+
 				2) 导航激光雷达--由SRC核心控制器获取该元件数据，通过计算采集到的数据控制机器人减速或者停止。
+
 				3) 避障激光雷达--270°，覆盖到导航激光雷达无法检测到的盲区。（SRC核心控制器对IO信号检测频率高达1000Hz）
+
 				4) 3D相机--用于视觉检测，检测立体障碍物或者地面的坑洞。
+
 				5) 安全触边（碰撞条）。安全触边被挤压后，SRC控制器收到电平信号会立即停止机器人。
+
 				6) 节点保护--对于CAN总线发生的故障能够实时监测并报警。
+
 			ii. 多传感器安全防护：导航激光、避障激光、安全探照灯、声光提醒、安全触边、防撞光电传感器、急停等
-		c. 灵动科技
+
+		c. <b>灵动科技</b>
+
 			i. 传感器：2个激光雷达+里程计+惯性测量单元
+
 			ii. 摄像头：4个摄像头（包括一个Intel RealSense 摄像头）
+
 			iii. 声光电报警+两个急停按钮
-	2. 导航技术：
+
+	2. <b>导航技术</b>
+
 		a. 斯坦德：激光slam导航，站点停止精度+-20mm/2°
+
 		b. 灵动科技：vSLAM（视觉同步定位和地图绘制）
+
 		c. 仙工智能：激光slam导航，定位精度+-5mm，+-0.5°
 
+
 <b><font size="3" face="Segoe Script">运动控制模块</font></b>
-		a. 雷赛智能
+
+		a. <b>雷赛智能</b>
+
 			i. 聚焦于包括 伺服电机驱动系统、步进电机驱动系统、运动控制卡、运动控制器等产品的研发、生产和销售。
+
 			ii. 官网：https://www.leisai.com/index.html
+
 			iii. 产品
+
 				1) DM3E总线型步进驱动系列
+
 				2) CL1系列脉冲通用型闭环步进驱动器
+
 				3) DM通用型步进驱动系统
+
 				4) LD2系列驱控一体型低压伺服系统
+
 				5) mPLC2系列基本型运动控制PLC
-		b. 德国万可WAGO
+
+		b. <b>德国万可WAGO</b>
+
 			i. 专注于电气连接技术、工业接口模块、自动化控制技术等
+
 			ii. 官网：https://www.wago.com/cn/ 
+
 			iii. 产品
+
 				1) 自动化控制产品
+
 					a) 软件&解决方案（工程软件，Runtime软件、移动应用软件）
+
 					b) 操作&监控（Web和触控面板）
+
 					c) 控制器
+
 					d) I/O系统
+
 				2) 工业接口模块
+
 					a) 模拟信号转换模块
+
 					b) 电力和能源测量技术
+
 					c) 工业稳压电源系列
+
 					d) 继电器和光电耦合器
+
 					e) 电缆转换模块
-		c. KEBA AG(&LTI motion GmbH)
+
+		c. <b>KEBA AG(&LTI motion GmbH)</b>
+
 			i. 产品包括自动化系统、CNC系统、运动控制、风能系统、安全技术、伺服控制器、伺服电机、电机部件、工程工具、磁浮轴承技术、主轴技术
+
 			ii. 官网：https://www.keba.com/en/home
+
 			iii. 展出产品
+
 				1) MotionOne CNC（激光技术包）
+
 				2) KeConnect C5 I/O module(新一代I/O模块）
+
 				3) KeControl C5（新一代控制系统）
+
 				4) SystemOne CM(纺织机械运动控制技术）
+
 				5) LTI Motion 路斯特技术组合
+
 					a) 变桨伺服驱动器
+
 					b) 变桨电机
+
 					c) 偏航伺服驱动器
-		d. SERVOTRONIX
+
+		d. <b>SERVOTRONIX</b>(被美的收购了)
+
 			i. 专注于人机交互、运动控制器、伺服驱动器、伺服电机、集成式电机、编码器
+
 			ii. 官网：http://www.servotronix.com/?lang=zh-hans
+
 			iii. 部分展出产品：
+
 				1) PRHD2高动态伺服电机
+
 				2) CDHD 高性能伺服驱动器
+
 				3) LDHD2高性能伺服驱动器
+
 				4) CDHD2高性能伺服驱动器
 
-<b><font size="3" face="Segoe Script">自动化配件</font></b>
-		a. 滚珠丝杆（网站均有附产品信息、CAD数据、寿命计算等服务） 
+
+<b><fontsize="3" face="Segoe Script">自动化配件</font></b>
+
+		a. <b>滚珠丝杆</b>（网站均有附产品信息、CAD数据、寿命计算等服务） 
+
 			i. TBI（全球传动）
+
 				1) 致力于传动元件事业，主要产品包括 滚珠螺杆、线性滑轨、滚珠花键、旋转式滚珠螺杆/花键、单轴机器人、直线轴承、联轴器、螺杆支撑座……
+
 				2) 官网网址：https://www.tbimotion.com.tw/zh-CN/index.html
+
 			ii. THK
+
 				1) 开发直线运动 (LM) 导轨机构的先驱以及许多其他独特的机械组件，包括滚珠花键、滚珠丝杠和连杆球
+
 				2) 官网网址：https://www.thk.com/?q=cn
-		b. 激光雷达
+
+		b. <b>激光雷达</b>
+
 			i. 万集科技
+
 				1) 轮廓测量雷达
+
 				2) 高频扫描雷达
+
 				3) 叉车导航雷达
+
 				4) SLAM导航雷达
+
 				5) 工业防撞雷达
+
 				6) 安全防护雷达
+
 				7) 车规3D雷达
+
 		c. 末端执行器
+
 			i. 大寰机器人（DH-ROBOTICS）
+
 				1) 工业薄型平行电爪
+
 				传动方式：齿轮齿条+交叉滚子导轨/直线导轨
+
 				2) 协作型平行电爪
+
 				传动方式：齿轮齿条+T型导轨/直线导轨
+
 				3) 关节型自适应电爪
+
 				传动方式：私募螺杆+连杆机构（+齿轮传动）
+
 				4) 通讯协议：Modbus RTU(RS485),Digital I/O
+
 					
+
 	
+
 
