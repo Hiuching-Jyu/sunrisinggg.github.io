@@ -245,7 +245,7 @@ j. link: [Robotics Applicants](https://robotics.umich.edu/academic-program/admis
 
 ***
 
-## Oregon State University 俄勒冈州立大学
+## Oregon State University
 
 ![Oregon State University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Oregon State University.jpg "Oregon State University")
 
