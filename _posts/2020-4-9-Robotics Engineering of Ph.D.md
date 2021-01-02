@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Robotics Engineering of Ph.D"
+title: "Robotics Engineering of Ph.D & M.Sc"
 date: 2020-4-9
-excerpt: "Us institutions offering robotics LABS and ph. D courses"
+excerpt: "US & German institutions offering robotics Labs, ph. D & M.Sc courses"
 tags: [Robotics]
 comments: true
 robotics: true
@@ -10,7 +10,7 @@ timeline: true
 feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets/img/Robotics%20Engineering%20of%20Ph.D/abc.jpg?raw=true
 ---
 
-<center><big><b>This blog will present a couple of Us institutions offering robotics Labs and Ph.D. courses with other details.</b></big></center>
+<center><big><b>This blog will present a couple of US & German institutions offering robotics Labs and Ph.D.& M.Sc courses with other details.</b></big></center>
 <center><small>This blog won't be updated until the US-China relationship eases.</small></center>
 <center><small>(Note that you should <b>include a link to this article</b> if you really need to reprint it. )</small></center>
 ![Baymax](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/baymax.gif "Baymax")
@@ -34,6 +34,8 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 [    ○ The University of Michigan](#the-university-of-michigan)
 
 [    ○ Oregon State University](#oregon-state-university)
+
+[    ○ Oregon State University](#Technical University of Munich)
 
 
 <hr>
@@ -266,6 +268,105 @@ h. major background: **science, mathematics, computer science, engineering**
 i. more information: **had published as authors or co-authors on academic publications**
 
 j. link: [How to join①](https://gradschool.oregonstate.edu/programs/3250/robotics-phd-ms-minor)    [How to jion②](https://robotics.oregonstate.edu/join-us)[Courses and requirement for existing Ph.D.s ](https://engineering.oregonstate.edu/robotics/doctorate-degree-robotics)
+
+***
+
+
+## Massachusetts Institute of Technology
+
+![Massachusetts Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Massachusetts Institute of Technology.jpg "Massachusetts Institute of Technology")
+
+a. Faculty:  **EE&CS/ME/ Mathmatics/ Aeronautics and Astronautics**
+
+b. Tutor(title):  
+
+c. Detail: 
+
+d. GRE V/W:  **NO NEED** (CS&EE)
+
+e. Toefl/IELTs:  **T: 100(ibt) / I: 7**
+
+f. Gpa: NI 
+
+g. Due date: **Dec.15** 
+
+h. major background:
+
+i. requirement
+
+1. Courses
+
+(1). ME: At least an undergraduate-level exposure to most of the core MechE disciplines (<u>solid mechanics, dynamics, fluid mechanics, thermodynamics, heat transfer, materials, control, design and manufacturing</u>), and to be familiar with <u>basic electric circuits and electromagnetic field theory.</u>
+
+(2) EECS: A very strong background in math, physics, engineering, or computer science is a necessity. 
+
+j. [link for CS institution](http://www.eecs.mit.edu/academics-admissions/graduate-program/admissions)
+
+k. research opportunity: 
+
+***
+<hr>
+
+## Technical University of Munich
+
+//![Technical University of Munich](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Carnegie Mellon University.jpg "Carnegie Mellon University")
+
+* ① Robotics, Cognition, Intelligence
+
+②Mechatronics and Robotics *
+
+a. Faculty:  **①Department of Informatics/ ②Department of Mechanical Engineering **
+
+b.link of Tutor(title):NI
+
+c. Course Detail:
+
+① https://www.tum.de/en/studies/degree-programs/detail/mechatronik-und-robotik-master-of-science-msc/
+
+
+d. GRE: Q:157，AW：3.5, V:NI
+
+e. Toefl/IELTs: **T: 88(ibt,min)/ I: 6.5(each)**
+
+f. Gpa: NI
+
+g. Due date: 
+
+① Winter semester: 1/1. - 31/5.Summer semester: 1/9. - 30/11.
+
+② Winter semester: 1/4.- 31/5.Summer semester: 1/11. - 31/12.
+
+h. major background: 
+
+① Informatics, Electrical Engineering, and Information Technology as well as Mechanical Engineering
+
+② higher mathematics, technical mechanics,machine elements,material science,fluid mechanics,control engineering,principles of modern information technology,
+
+i. Prerequisites:
+	• Application for Admission (upload - signed)
+
+	• Degree Certificate and Diploma or Subject and Grade Transcript of Studies to Date
+	
+    • Transcript of Records
+
+	*• Proof of German Language Proficiency*
+
+	• Proof of English Language Proficiency
+
+	• Curricular Analysis
+
+	• Letter of Motivation
+
+	• Essay
+
+	• Complete and Current Résumé
+
+	• Passport
+
+Preliminary Documentation (VPD) if the qualification for graduate studies (e.g. a bachelor's) is obtained outside the EU/EEA
+
+
+j. links: [① Robotics, Cognition, Intelligence]( https://www.tum.de/en/studies/degree-programs/detail/robotics-cognition-intelligence-master-of-science-msc/) [②Mechatronics and Robotics]( https://www.tum.de/en/studies/degree-programs/detail/mechatronik-und-robotik-master-of-science-msc/)
 
 ***
 
