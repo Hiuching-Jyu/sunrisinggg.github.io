@@ -317,12 +317,9 @@ k. research opportunity:
 
 a. Faculty:  **①Department of Informatics/ ②Department of Mechanical Engineering **
 
-b.link of Tutor(title):NI
+b. Link of Tutor(title):NI
 
-c. Course Detail:
-
-① https://www.tum.de/en/studies/degree-programs/detail/mechatronik-und-robotik-master-of-science-msc/
-
+c. Detail:NI
 
 d. GRE: Q:157，AW：3.5, V:NI
 
@@ -340,7 +337,7 @@ h. major background:
 
 ① Informatics, Electrical Engineering, and Information Technology as well as Mechanical Engineering
 
-② higher mathematics, technical mechanics,machine elements,material science,fluid mechanics,control engineering,principles of modern information technology,
+② Higher mathematics, technical mechanics,machine elements,material science,fluid mechanics,control engineering,principles of modern information technology,
 
 i. Prerequisites:
 
