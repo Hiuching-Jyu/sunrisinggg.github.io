@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Robotics Engineering of Ph.D & M.Sc"
-date: 2020-4-9
+title: "[Updated]Robotics Engineering of Ph.D & M.Sc"
+date: 2021-1-3
 excerpt: "US & German institutions offering robotics Labs, ph. D & M.Sc courses"
 tags: [Robotics]
 comments: true
@@ -11,7 +11,7 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 ---
 
 <center><big><b>This blog will present a couple of US & German institutions offering robotics Labs and Ph.D.& M.Sc courses with other details.</b></big></center>
-<center><small>This blog won't be updated until the US-China relationship eases.</small></center>
+<center><small>The original version of this blog was completed on April 9, 2020 </small></center>
 <center><small>(Note that you should <b>include a link to this article</b> if you really need to reprint it. )</small></center>
 ![Baymax](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/baymax.gif "Baymax")
 
@@ -35,7 +35,7 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 
 [    ○ Oregon State University](#oregon-state-university)
 
-[    ○ Oregon State University](#Technical University of Munich)
+[    ○ Technical University of Munich](#Technical University of Munich)
 
 
 <hr>
