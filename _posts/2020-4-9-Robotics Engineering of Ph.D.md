@@ -309,11 +309,11 @@ k. research opportunity:
 
 ## Technical University of Munich
 
-//![Technical University of Munich](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Carnegie Mellon University.jpg "Carnegie Mellon University")
+![Technical University of Munich](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Carnegie Mellon University.jpg "Carnegie Mellon University")
 
 * ① Robotics, Cognition, Intelligence
 
-②Mechatronics and Robotics *
+② Mechatronics and Robotics *
 
 a. Faculty:  **①Department of Informatics/ ②Department of Mechanical Engineering **
 
