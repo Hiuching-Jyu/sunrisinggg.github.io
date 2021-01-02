@@ -267,7 +267,7 @@ h. major background: **science, mathematics, computer science, engineering**
 
 i. more information: **had published as authors or co-authors on academic publications**
 
-j. link: [How to join①](https://gradschool.oregonstate.edu/programs/3250/robotics-phd-ms-minor)    [How to jion②](https://robotics.oregonstate.edu/join-us)[Courses and requirement for existing Ph.D.s ](https://engineering.oregonstate.edu/robotics/doctorate-degree-robotics)
+j. link: [How to join①](https://gradschool.oregonstate.edu/programs/3250/robotics-phd-ms-minor)    [How to join②](https://robotics.oregonstate.edu/join-us)[Courses and requirement for existing Ph.D.s ](https://engineering.oregonstate.edu/robotics/doctorate-degree-robotics)
 
 ***
 
@@ -343,27 +343,28 @@ h. major background:
 ② higher mathematics, technical mechanics,machine elements,material science,fluid mechanics,control engineering,principles of modern information technology,
 
 i. Prerequisites:
-	• Application for Admission (upload - signed)
 
-	• Degree Certificate and Diploma or Subject and Grade Transcript of Studies to Date
+• Application for Admission (upload - signed)
+
+• Degree Certificate and Diploma or Subject and Grade Transcript of Studies to Date
 	
-    • Transcript of Records
+• Transcript of Records
 
-	*• Proof of German Language Proficiency*
+*• Proof of German Language Proficiency*
 
-	• Proof of English Language Proficiency
+• Proof of English Language Proficiency
 
-	• Curricular Analysis
+• Curricular Analysis
 
-	• Letter of Motivation
+• Letter of Motivation
 
-	• Essay
+• Essay
 
-	• Complete and Current Résumé
+• Complete and Current Résumé
 
-	• Passport
+• Passport
 
-Preliminary Documentation (VPD) if the qualification for graduate studies (e.g. a bachelor's) is obtained outside the EU/EEA
+• Preliminary Documentation (VPD) if the qualification for graduate studies (e.g. a bachelor's) is obtained outside the EU/EEA
 
 
 j. links: [① Robotics, Cognition, Intelligence]( https://www.tum.de/en/studies/degree-programs/detail/robotics-cognition-intelligence-master-of-science-msc/) [②Mechatronics and Robotics]( https://www.tum.de/en/studies/degree-programs/detail/mechatronik-und-robotik-master-of-science-msc/)
