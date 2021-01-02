@@ -35,7 +35,7 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 
 [    ○ Oregon State University](#oregon-state-university)
 
-[    ○ Technical University of Munich](#Technical University of Munich)
+[    ○ Technical University of Munich](#technical-university-of-munich)
 
 
 <hr>
