@@ -274,7 +274,7 @@ j. link: [How to join①](https://gradschool.oregonstate.edu/programs/3250/robot
 
 ## Massachusetts Institute of Technology
 
-![Massachusetts Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/Massachusetts Institute of Technology.jpg "Massachusetts Institute of Technology")
+![Massachusetts Institute of Technology](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/TUM.jpg "TUM")
 
 a. Faculty:  **EE&CS/ME/ Mathmatics/ Aeronautics and Astronautics**
 
