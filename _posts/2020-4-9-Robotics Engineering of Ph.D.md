@@ -37,6 +37,8 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 
 [    ○ Technical University of Munich](#technical-university-of-munich)
 
+[    ○ RWTH Aachen University](#rwth-aachen-University)
+
 
 <hr>
 
@@ -367,6 +369,69 @@ i. Prerequisites:
 j. links: [① Robotics, Cognition, Intelligence]( https://www.tum.de/en/studies/degree-programs/detail/robotics-cognition-intelligence-master-of-science-msc/) [②Mechatronics and Robotics]( https://www.tum.de/en/studies/degree-programs/detail/mechatronik-und-robotik-master-of-science-msc/)
 
 ***
+
+## RWTH Aachen University
+
+![RWTH Aachen University](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/RWTH "RWTH Aachen University")
+
+Robotic Systems Engineering (Two years, English)
+
+a. Faculty:  Mechanical Engineering
+
+b. Tutor(title): NI
+
+c. Courses Detail: computer vision, multi body dynamics, machine learning, advanced robot kinematics and dynamics, simulation, robotic sensor systems, advanced machine learning, mechatronics and control techniques for production plants, automation technology for production systems, technology management, and industrial logistics.
+
+d. GRE V/W: NI
+
+e. Toefl/IELTs:  **T: min90 / I: min5.5(better to be 7)**
+
+f. Gpa: NI
+
+g. Due date: 1/12-1/3
+
+h. major background: **Bioengineering/Computer Systems and Software/ Digital Signal Processing/ Electrical Energy/ Electromagnetics/ Electronic Design and Applications/ Nanotechnology/ Optics and Photonics/ Systems and Controls/ Telecommunications/ VLSI Systems and Digital Design**
+
+i. more information: **1 year work experience**
+
+j.links: [ Website of major ]( https://www.rwth-aachen.de/go/id/ojrv?lidx=1#aaaaaaaaaaaojta )
+
+[Language requirements](https://www.rwth-aachen.de/go/id/zwyn/lidx/1)
+
+***
+
+## Swiss Federal Institute of Technology Zurich
+
+![Swiss Federal Institute of Technology Zurich](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/ETH "Swiss Federal Institute of Technology Zurich")
+
+Robotic Systems Engineering (One and a half years, English)
+
+Master Robotics, Systems and Control
+
+a. Faculty:  Engineering Sciences
+
+b. Tutor(title): NI
+
+c. Courses Detail: NI
+
+d. GRE V/W: NI
+
+e. Toefl/IELTs:  雅思托福再高也去不了 打算放弃ing
+
+f. Gpa: GPA再高也去不了 打算放弃ing
+
+g. Due date: 打算放弃ing
+
+h. major background: ** Electrical Engineering and Information Technolog， Mechanical Engineering，Computer Science**
+
+i. more information: **German (level C1).**
+
+j.links: [ Document of major ]( https://ethz.ch/content/dam/ethz/common/docs/master-profile/englisch/ingenieurwissenschaften/MSc-RSC-Appendix.pdf )
+
+[Website](https://ethz.ch/en/studies/master/application/profile-requirements.html1)
+
+***
+
 
 ## Explanations of some abbreviations
 
