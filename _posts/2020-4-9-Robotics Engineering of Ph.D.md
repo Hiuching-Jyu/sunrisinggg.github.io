@@ -422,7 +422,7 @@ f. Gpa: GPA再高也去不了 打算放弃ing
 
 g. Due date: 打算放弃ing
 
-h. major background: ** Electrical Engineering and Information Technolog， Mechanical Engineering，Computer Science**
+h. major background: **Electrical Engineering and Information Technolog， Mechanical Engineering，Computer Science**
 
 i. more information: **German (level C1).**
 
