@@ -37,7 +37,7 @@ feature: https://github.com/SUNRISINGGG/sunrisinggg.github.io/blob/master/assets
 
 [    ○ Technical University of Munich](#technical-university-of-munich)
 
-[    ○ RWTH Aachen University](#rwth-aachen-University)
+[    ○ RWTH Aachen University](#rwth-aachen-university)
 
 
 <hr>
