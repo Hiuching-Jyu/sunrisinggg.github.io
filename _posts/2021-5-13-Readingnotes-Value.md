@@ -14,7 +14,7 @@ timeline: true
 <center>Writer: 张磊</center>
 
 <center>My Reading time: From Apr. 10, 2021 to May. 13, 2021</center>
-![Value](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Readingnotespho/价值.jpg "Value")
+![Value](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Readingnotespho/价值.jpg  "Value")
 
 ## ◆ 我的知识大树
 		
