@@ -1,0 +1,6 @@
+[0612/210407:INFO:exception_record.cc(518)] [QB]Process ID: 15896 Type: 4
+[0612/210407:ERROR:main_delegate.cc(792)] Could not load cef_extensions.pak
+[0612/214941:INFO:exception_record.cc(518)] [QB]Process ID: 18468 Type: 4
+[0612/214942:ERROR:main_delegate.cc(792)] Could not load cef_extensions.pak
+[0612/221740:INFO:exception_record.cc(518)] [QB]Process ID: 17096 Type: 4
+[0612/221740:ERROR:main_delegate.cc(792)] Could not load cef_extensions.pak
