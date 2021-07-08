@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Where is my island?"
-date: 2020-2-3
-excerpt: "Was it lost in my childhood?"
+title: "恋爱一百天|夏日时光，当存浪漫遐想，肆意自由，希冀，独立和信仰"
+date: 2021-7-8
+excerpt: 
 tags: [jottings]
 post: true
 timeline: true
 ---
 <script type="text/javascript" src="http://tajs.qq.com/stats?sId=66526224" charset="UTF-8"></script>
+
 我其实是一个蛮注重仪式感的人。
 
 
