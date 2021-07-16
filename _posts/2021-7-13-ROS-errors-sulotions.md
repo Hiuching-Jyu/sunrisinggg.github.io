@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "ROS practice--beginnng"
+title: "ROS practice--errors and sulotions"
 date: 2021-7-13
-excerpt: "Command lines, errors and tips that often occur when running ROS for beginners."
+excerpt: "Errors and tips that often occur when running ROS for beginners."
 tags: [Notes,ROS]
 project: ture
 timeline: true
