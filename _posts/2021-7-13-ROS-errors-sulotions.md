@@ -62,6 +62,8 @@ sudo apt-get upgrade>`
 `add_executable(eigenMatrix src/eigenMatrix.cpp)
 
 target_link_libraries(
+
   eigenMatrix
+
   ${catkin_LIBRARIES}
 )`

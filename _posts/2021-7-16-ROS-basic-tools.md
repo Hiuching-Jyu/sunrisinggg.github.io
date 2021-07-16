@@ -11,10 +11,10 @@ timeline: true
 
 
 ## 查看qt的版本
-`<qmake -v>`
+`qmake -v`
 
 ## 使用根用户来运行命令行
-`<su root>`
+`su root`
 
 ctrl+d退出
 
@@ -69,4 +69,25 @@ ctrl+d退出
 
 `roslaunch tutorial_pkg your_launch_file.launch`
 
+## CMakeLists.txt编辑
+- 查找到行，并取消下面的注释。
+
+`# add_compile_options(-std=c++11)`
+- 查找到行，并取消注释。这一行是让编译器知道它应该从定义的哪个源来创建可执行文件，而这个可执行文件就是需要我们构建的节点。
+
+`# add_executable(${PROJECT_NAME}_node src/tutorial_pkg_node.cpp)`
+- 查找到行，并取消注释。这会使编译器连接到你的节点所需的库
+
+`# target_link_libraries(${PROJECT_NAME}_node # ${catkin_LIBRARIES} # )`
+
+
+## 停止roscore
+
+`killall -9 roscore
+
+killall -9 rosmaster`
+
+## 命令行分屏小技巧
+
+`sudo apt-get install screen`
 
