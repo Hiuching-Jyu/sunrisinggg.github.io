@@ -42,7 +42,8 @@ Unable to locate package
 ```
 
 #### Sulotion
-```sudo apt-get update
+```
+sudo apt-get update
 
 sudo apt-get upgrade
 ```
