@@ -22,17 +22,17 @@ ctrl+d退出
 ## rosnode 应用
 用于检查系统中注册了哪些节点，并检查他们的状态
 
-- rosnode list 显示运行节点的列表
+- `rosnode list` 显示运行节点的列表
 
-- rosnode info 显示有关选定节点的信息
+- `rosnode info` 显示有关选定节点的信息
 
 - kill 停止选定的节点
 
 ## rostopic 应用
 
-- rostopic list 显示运行话题的列表
-- rostopic info 显示有关选定话题的信息
-- echo 显示在话题中发布的消息
+- `rostopic list` 显示运行话题的列表
+- `rostopic info` 显示有关选定话题的信息
+- `echo 显示在话题中发布的消息`
 
 ## rqt_graph 应用
 适用于可视化跨系统中不同节点的数据流的图新工具
@@ -47,8 +47,8 @@ ctrl+d退出
 是一种简化同时运行多个节点的工具
 
 - 调用方法：
-    - roslaunch package file.launch 适用于随包提供启动文件，可以从任何文件夹运行它
-    - Roslaunch file.launch 当使用独立文件的时候，在启动文件所在的文件夹中运行它
+    - `roslaunch package file.launch` 适用于随包提供启动文件，可以从任何文件夹运行它
+    - `roslaunch file.launch` 当使用独立文件的时候，在启动文件所在的文件夹中运行它
 
 - .launch文件的结构，用的是XML的标记语言。
     - 需要添加的内容被插入在<launch>…</launch>中
@@ -60,25 +60,23 @@ ctrl+d退出
             - output：如果值为screen节点输出将定向到屏幕，如果值为log输出将定向到日志文件，默认为日志。
 
 - 使用launch来运行节点
-    - 通过输入节点名称来启动ROS
-			rosrun tutorial_pkg tutorial_pkg_node
+    - 通过输入节点名称来启动ROS`rosrun tutorial_pkg tutorial_pkg_node`
 	- 如果要使用.launch与自定义包关联的文件，那么就必须要创建launch目录，并且将.launch文件放在那里
-			
     `mkdir ~/ros_workspace/src/tutorial_pkg/launch`
 		
      通过以下命令来驱动.launch
-
-`roslaunch tutorial_pkg your_launch_file.launch`
+    `roslaunch tutorial_pkg your_launch_file.launch`
 
 ## CMakeLists.txt编辑
 - 查找到行，并取消下面的注释。
 
-`# add_compile_options(-std=c++11)`
+    `# add_compile_options(-std=c++11)`
 - 查找到行，并取消注释。这一行是让编译器知道它应该从定义的哪个源来创建可执行文件，而这个可执行文件就是需要我们构建的节点。
-`# add_executable(${PROJECT_NAME}_node src/tutorial_pkg_node.cpp)`
-
+    
+    `# add_executable(${PROJECT_NAME}_node src/tutorial_pkg_node.cpp)`
 - 查找到行，并取消注释。这会使编译器连接到你的节点所需的库
-`# target_link_libraries(${PROJECT_NAME}_node # ${catkin_LIBRARIES} # )`
+    
+    `# target_link_libraries(${PROJECT_NAME}_node # ${catkin_LIBRARIES} # )`
 
 
 ## 停止roscore
