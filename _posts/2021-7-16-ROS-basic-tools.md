@@ -9,6 +9,7 @@ timeline: true
 ---
 <script type="text/javascript" src="http://tajs.qq.com/stats?sId=66526224" charset="UTF-8"></script>
 
+本文用于记录笔者在初步使用ROS的过程中常见的命令和工具，你或许还想看[ROS初级使用者常见报错](https://sunrisinggg.github.io/ROS-errors-sulotions/ )
 
 ## 查看qt的版本
 `qmake -v`
@@ -18,7 +19,7 @@ timeline: true
 
 ctrl+d退出
 
-## rosnode的作用
+## rosnode 应用
 用于检查系统中注册了哪些节点，并检查他们的状态
 
 - rosnode list 显示运行节点的列表
@@ -27,13 +28,13 @@ ctrl+d退出
 
 - kill 停止选定的节点
 
-## rostopic的作用
+## rostopic 应用
 
 - rostopic list 显示运行话题的列表
 - rostopic info 显示有关选定话题的信息
 - echo 显示在话题中发布的消息
 
-## rqt_graph 
+## rqt_graph 应用
 适用于可视化跨系统中不同节点的数据流的图新工具
 
 - 椭圆代表节点
