@@ -82,9 +82,9 @@ ctrl+d退出
 
 ## 停止roscore
 
-`killall -9 roscore
+`killall -9 roscore`
 
-killall -9 rosmaster`
+`killall -9 rosmaster`
 
 ## 命令行分屏小技巧
 
