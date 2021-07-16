@@ -44,15 +44,17 @@ sudo apt-get upgrade>`
 
 #### Sulotion
 
-	- cd  /etc/apt/sources.list.d 找到文件目录
+```
+cd  /etc/apt/sources.list.d 找到文件目录
 
-	- 先ls列出有的文件
+ 先ls列出有的文件
 
-	- 然后把文件改成备份文件
+ 然后把文件改成备份文件
 
-	`sudo mv damien-moore-ubuntu-codeblocks-stable-bionic.list damien-moore-ubuntu-codeblocks-stable-bionic.list.bak`
+sudo mv damien-moore-ubuntu-codeblocks-stable-bionic.list damien-moore-ubuntu-codeblocks-stable-bionic.list.bak
    
-    `sudo apt update`
+sudo apt update
+```
 
 ## Error5
 在qtcreator中没有显示可执行文件
