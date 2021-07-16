@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS practice--errors and sulotions"
+title: "ROS Practice--Errors and Sulotions"
 date: 2021-7-13
 excerpt: "Errors and tips that often occur when running ROS for beginners."
 tags: [Notes,ROS]

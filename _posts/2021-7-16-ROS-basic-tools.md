@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS practice--basic command"
+title: "ROS Practice--Basic Command"
 date: 2021-7-13
 excerpt: "Command lines that often occur when running ROS for beginners."
 tags: [Notes,ROS]
