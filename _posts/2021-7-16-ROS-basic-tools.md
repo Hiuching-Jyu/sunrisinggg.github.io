@@ -53,7 +53,7 @@ ctrl+d退出
 - .launch文件的结构，用的是XML的标记语言。
     - 需要添加的内容被插入在<launch>…</launch>中
     - 使用node元素定义节点
-        - <node pkg="package_name" type="node" name="id" required="true" output="screen"> </node>
+        `<node pkg="package_name" type="node" name="id" required="true" output="screen"> </node>`
             - type：要运行的节点
 			- name：将绑定到节点的id
 			- required：如果是true则.launch中该节点停止或者失败，则文件中的所有节点都将会停止，默认值为false
