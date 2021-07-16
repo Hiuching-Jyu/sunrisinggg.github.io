@@ -11,7 +11,7 @@ timeline: true
 
 
 ## Error1
-'E: The repository 'http://ppa.launchpad.net/levi-armstrong/ppa/ubuntu bionic Release' does not have a Release file.
+`E: The repository 'http://ppa.launchpad.net/levi-armstrong/ppa/ubuntu bionic Release' does not have a Release file.
 
 N: Updating from such a repository can't be done securely, and is therefore disabled by default.
 
@@ -21,7 +21,7 @@ E: The repository 'http://ppa.launchpad.net/levi-armstrong/qt-libraries-xenial/u
 
 N: Updating from such a repository can't be done securely, and is therefore disabled by default.
 
-N: See apt-secure(8) manpage for repository creation and user configuration details.'
+N: See apt-secure(8) manpage for repository creation and user configuration details.`
 
 #### Sulotion
 [解决方案链接](https://blog.csdn.net/m0_49448331/article/details/108354926 )
@@ -43,11 +43,12 @@ sudo apt-get upgrade>`
 `ppa...（软件）Release 404 Not Found [IP: 91.189.95.83 80]`
 
 #### Sulotion
-	1. cd  /etc/apt/sources.list.d 找到文件目录
 
-	2. 先ls列出有的文件
+	- cd  /etc/apt/sources.list.d 找到文件目录
 
-	3. 然后把文件改成备份文件
+	- 先ls列出有的文件
+
+	- 然后把文件改成备份文件
 
 	`sudo mv damien-moore-ubuntu-codeblocks-stable-bionic.list damien-moore-ubuntu-codeblocks-stable-bionic.list.bak`
    
