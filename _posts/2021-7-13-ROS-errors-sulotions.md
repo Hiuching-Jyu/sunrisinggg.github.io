@@ -27,20 +27,28 @@ N: See apt-secure(8) manpage for repository creation and user configuration deta
 [解决方案链接](https://blog.csdn.net/m0_49448331/article/details/108354926 )
 
 ## Error2
-` Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), is another process using it? `
+```
+Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), is another process using it? 
+```
 
 #### Sulotion
 [解决方案链接](https://www.jianshu.com/p/c9c425c56feb )
 
 ## Error3
-`Unable to locate package`
+```
+Unable to locate package
+```
 
 #### Sulotion
-`<sudo apt-get update
-sudo apt-get upgrade>`
+```sudo apt-get update
+
+sudo apt-get upgrade
+```
 
 ## Error4
-`ppa...（软件）Release 404 Not Found [IP: 91.189.95.83 80]`
+```
+ppa...（软件）Release 404 Not Found [IP: 91.189.95.83 80]
+```
 
 #### Sulotion
 
@@ -62,11 +70,13 @@ sudo apt update
 #### Sulotion
 原因是CMakelist没有填写好，按照以下格式添加即可
 
-`add_executable(eigenMatrix src/eigenMatrix.cpp)
+```
+add_executable(eigenMatrix src/eigenMatrix.cpp)
 
 target_link_libraries(
 
   eigenMatrix
 
   ${catkin_LIBRARIES}
-)`
+)
+```
