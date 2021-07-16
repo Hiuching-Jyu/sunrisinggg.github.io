@@ -90,3 +90,20 @@ killall -9 rosmaster`
 
 `sudo apt-get install screen`
 
+## 授予某文件所属者执行权限
+chmod +x （src目录下的某个.cpp, .py, .action文件）
+
+## 从github仓库下载包
+git clone + github远程仓库地址
+
+## 寻找文件 
+rospack find
+
+##启动setup.bash
+- 在测试的时候使用 只需要在终端输入
+
+    `source devel/setup.bash`
+
+- 长期需要运行这个代码就在bashsrc里边加上上面那行代码
+	- gedit ~/.bashrc 打开文件
+    - 在底部添加source ~/{your workspace}/devel/setup.bash
