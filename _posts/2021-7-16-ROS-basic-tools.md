@@ -63,8 +63,10 @@ ctrl+d退出
 			rosrun tutorial_pkg tutorial_pkg_node
 	- 如果要使用.launch与自定义包关联的文件，那么就必须要创建launch目录，并且将.launch文件放在那里
 			
-    `<mkdir ~/ros_workspace/src/tutorial_pkg/launch>`
+    `mkdir ~/ros_workspace/src/tutorial_pkg/launch`
 		
      通过以下命令来驱动.launch
 
-`<roslaunch tutorial_pkg your_launch_file.launch>`
+`roslaunch tutorial_pkg your_launch_file.launch`
+
+
