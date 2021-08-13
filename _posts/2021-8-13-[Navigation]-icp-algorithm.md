@@ -9,7 +9,7 @@ timeline: true
 ---
 <script type="text/javascript" src="http://tajs.qq.com/stats?sId=66526224" charset="UTF-8"></script>
 
-![Note](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/RoboticsNote/icp.jpg "Note")
+![Note](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/RoboticsNote/icp.png "Note")
 
 
 Reference:
