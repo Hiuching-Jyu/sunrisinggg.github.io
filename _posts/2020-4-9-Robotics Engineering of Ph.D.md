@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "[Updated]Robotics Engineering of Ph.D & M.Sc"
-date: 2021-1-3
-excerpt: "US & German institutions offering robotics Labs, ph. D & M.Sc courses"
+date: 2021-8-21
+excerpt: "Worldwide Institutions offering robotics Labs, ph. D & M.Sc courses"
 tags: [Robotics]
 comments: true
 robotics: true
@@ -400,7 +400,7 @@ j.links: [ Website of major ]( https://www.rwth-aachen.de/go/id/ojrv?lidx=1#aaaa
 
 ***
 
-## Swiss Federal Institute of Technology Zurich
+## Swiss Federal Institute of Technology Zurich -- ETHz 苏黎世联邦理工大学
 
 ![Swiss Federal Institute of Technology Zurich](https://raw.githubusercontent.com/SUNRISINGGG/sunrisinggg.github.io/master/assets/img/Robotics Engineering of Ph.D/ETH "Swiss Federal Institute of Technology Zurich")
 
@@ -412,17 +412,17 @@ a. Faculty:  Engineering Sciences
 
 b. Tutor(title): NI
 
-c. Courses Detail: NI
+c. Courses Detail: ¢ Robot Design, Modeling and Control ¢ Systems Engineering ¢ Physical Modeling and Simulation ¢ Optimization and Control ¢ Perception, Graphics, Virtual Reality ¢ Navigation and Path Planning ¢ Embedded and Distributed Computing ¢ Artificial Intelligence
 
-d. GRE V/W: NI
+d. GRE V/W:  **Analytical 3.5, quantitative 165, verbal 155**
 
-e. Toefl/IELTs:  雅思托福再高也去不了 打算放弃ing
+e. Toefl/IELTs:  ~~雅思托福再高也去不了 打算放弃ing~~ **最低7**
 
-f. Gpa: GPA再高也去不了 打算放弃ing
+f. Gpa: **92以上可以试试**
 
-g. Due date: 打算放弃ing
+g. Due date: **11.1-12.15**
 
-h. major background: **Electrical Engineering and Information Technolog， Mechanical Engineering，Computer Science**
+h. major background: **180ETCS或者同等学位，电气工程和信息技术，计算机科学，机械工程，数学，物理等等**
 
 i. more information: **German (level C1).**
 
@@ -430,21 +430,268 @@ j.links: [ Document of major ]( https://ethz.ch/content/dam/ethz/common/docs/mas
 
 [Website](https://ethz.ch/en/studies/master/application/profile-requirements.html1)
 
-***
-
-
-## Explanations of some abbreviations
-
-CS: Computer Science
-
-EE: Eletrical Engineering
-
-ME: Mechanical Engineering
-
-NI: No Information
+[Application documents](https://ethz.ch/en/studies/master/application/international-bachelor/application-documents.html)
 
 ***
-咳咳，到了本次的反思时间hhh。反思嘛咱好好用中文就好
+
+## École polytechnique fédérale de Lausanne ‐ EPFL 洛桑联邦理工学院
+
+Master Robotics
+
+a. Faculty:  NI
+
+b. Tutor(title): NI
+
+c. Courses Detail: [课程链接](https://www.epfl.ch/education/master/wp-content/uploads/2019/01/STI_SMT_RO_MA.pdf)
+
+d. GRE V/W:  **强烈建议有GRE成绩**
+
+e. Toefl/IELTs: **5.0-6.0不知道是不是看错了**
+
+f. Gpa: **同92以上可以试试**
+
+g. Due date: **11月中旬-12.158**
+
+h. major background: **拥有相同研究领域的HES/FHS学士学位，平均成绩为5以上，Computer Science, Electrical Engineering, Mechanical Engineering, or any related field with an interdisciplinary background。**
+
+
+## TU Delft 代尔夫特理工大学
+
+
+Robotic Systems Engineering (Two years, English)
+
+a. Faculty:  
+
+b. Tutor(title): NI
+
+c. Courses Detail: Dynamics & Control Machine Learning Machine Perception Planning & Decision Making Human Robot Interaction Robots & Society， Logistics Project management Economic/business Organisational Human， Research Assignment In-depth courses Internship Joint Interdisciplinary Project
+[课程链接](https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Onderwijs/Opleidingen/Master/Brochures/3mE_Robotics_oct2020-web.pdf)
+
+d. GRE V/W:  **计算机科学，嵌入式系统，计算机工程，航天航空工程需要：verbal reasoning最低分154，quantitative reasoning 163, analytical writing 4.0**
+
+e. Toefl/IELTs: **总分至少6.5，每个部分至少6**
+
+f. Gpa: **国内80%或者更高，至少75%，西浦70左右就可以**
+
+g. Due date: **10.15开始，1.15或者4.1结束。知乎说12.2前投的都会受理**
+
+h. major background: **180ETCS或者同等学位，电气工程和信息技术，计算机科学，机械工程，数学，物理等等**
+
+i. more information:
+
+***
+
+## Imperial College London -- IC 帝国理工学院
+
+
+#### Human Robotics (One year, English)
+
+a. Faculty:  生物工程系
+
+b. Tutor(title): NI
+
+c. Courses Detail: ® Human Neuromechanical Control and Learning  ® Machine Learning and Neural Computation  ® Medical Device Entrepreneurship  ® Robotics 1  ® Statistics and Data Analysis
+Systems Physiology
+
+d. GRE V/W:  没有要求
+
+e. Toefl/IELTs: **总分7，单科至少6.5**
+
+f. Gpa: **总分达到80%或者更高，优先考虑85%以上的候选人，西浦80,70+强科研**
+
+g. Due date: **12.11，1.15**
+
+h. major background: 工程、物理或者数学的2.1学位
+
+i. more information:[专业网站](https://www.imperial.ac.uk/study/pg/bioengineering/human-and-biological-robotics-msc/)
+
+
+#### Medical Robotics (One year, English)
+
+a. Faculty:  Computing, surgery and cancer
+
+b. Tutor(title): NI
+
+c. Courses Detail: • Group Project  • Image Guided Intervention  • Medical Robotics and Instrumentation  • Minimally Invasive Surgery  • Sensing, Perception and Neuroergonomics
+Medical and Surgical Imaging
+
+d. GRE V/W:  没有要求
+
+e. Toefl/IELTs: **总分7，单科至少6.5**
+
+f. Gpa: **总分达到80%或者更高，优先考虑85%以上的候选人，西浦70出头可以去**
+
+g. Due date: **12.11，1.15**
+
+h. major background: 科学、工程、生物医学科学或医学学位的2.1学位
+
+
+i. more information: 
+
+
+***
+
+## London's Global University -- UCL 伦敦大学学院
+
+
+#### Robotics and Computation (One year, English)
+
+a. Faculty:  Computer science
+
+b. Tutor(title): NI
+
+c. Courses Detail: 					
+               a. 主修
+						• Robot Vision and Navigation (15 credits)
+						• Robotic Control Theory and Systems (15 credits)
+						• Robotic Sensing, Manipulation and Interaction (15 credits)
+						• Robotic Systems Engineering (15 credits)
+						• MSc Robotics and Computation Dissertation (60 credits)
+					b. 选修：
+						• Options (15 to 60 credits)
+						• Imagine Processing (15 credits)
+						• Introduction to Machine Learning (15 credits)
+						• Inverse Problems in Imaging (15 credits)
+						• Machine Learning for Visual Computing (15 credits)
+						• Machine Vision (15 credits)
+						• Multi-agent Artificial Intelligence (15 credits)
+						• Numerical Optimisation (15 credits)
+						• Sensors and Location (15 credits)
+						• Electives (up to 45 credits)
+						• Affective Computing and Human-Robot Interaction (15 credits)
+						• Computational Modelling for Biomedical Imaging (15 credits)
+						• Computer-Assisted Surgery and Therapy (15 credits)
+						• Introduction to Deep Learning (15 credits)
+						• Perception and Interfaces (15 credits)
+						• Reinforcement Learning (15 credits)
+Virtual Environments (15 credits)
+
+d. GRE V/W:  没有要求
+
+e. Toefl/IELTs: **总分7分，单项不低于6.5**
+
+f. Gpa: **西浦75以上**
+
+g. Due date: **12.1开始，5.1结束**
+
+h. major background: 至少2.1学位
+
+i. more information:[专业网站](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/robotics-computation-msc)
+
+
+#### Medical robotics and artificial intelligence (One year, English)
+
+a. Faculty:  Medical Physics and Biomedical Engineering
+
+b. Tutor(title): NI
+
+c. Courses Detail: 					
+					a. 主修：
+						◊ Research Project (MPHY0035)
+						◊ Robotic Systems Engineering (COMP0127)
+						◊ Medical Robotics and Devices
+						◊ Artificial Intelligence for Surgery and Intervention (MPHY0043)
+						◊ Surgical Data Science
+					• 选修
+						◊ Robot Control Theory and Systems (COMP0128)
+						◊ Research Software Engineering with Python (MPHY0021)
+						◊ Clinical Practice (MPHY0027)
+						◊ Medical Device Enterprise Scenario (MPHY0033)
+						◊ Robotic Sensing, Manipulation and Interaction (COMP0129)
+						◊ Robot Vision and Navigation (COMP0130)
+						◊ Computer Assisted Surgery and Therapy (MPHY0026)
+Machine Learning for Medical Imaging (MPHY0041)
+Virtual Environments (15 credits)
+
+d. GRE V/W:  没有要求
+
+e. Toefl/IELTs: **总分7分，单项不低于6.5**
+
+f. Gpa: **西浦75以上**
+
+g. Due date: **9.9开始，5.31结束**
+
+h. major background: 至少2.1学位
+
+i. more information:[专业网站](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/medical-robotics-and-artifical-intelligence-msc)
+
+***
+
+## The University of Edinburgh 爱丁堡大学
+
+
+#### Robotics and Computation (One year, English)
+
+a. Faculty: Computing and Informatics
+
+b. Tutor(title): NI
+
+c. Courses Detail: 					
+					• Accelerated Natural Language Processing
+					• Advanced Vision
+					• Automatic Speech Recognition
+					• Decision Making in Robots and Autonomous Agents
+					• Machine Learning & Pattern Recognition
+					• Natural Language Understanding, Generation, and Machine Translation
+					• Probabilistic Modelling and Reasoning
+					• Reinforcement Learning
+               • Robotics: Science and Systems
+               • Virtual Environments (15 credits)
+
+d. GRE V/W:  NI
+
+e. Toefl/IELTs: **总分7分，单项不低于6.5**
+
+f. Gpa: **最低成绩在85%以上，至少80， 西浦80以上**
+
+g. Due date: **12.1开始，5.1结束**
+
+h. major background: 至少2.1学位
+
+i. more information:[专业网站](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2021&id=107)
+
+***
+
+## University of Bristol 布里斯托大学
+
+
+#### Robotics/ Aerial Robotics/ Biorobotics (One year full time, English)
+
+a. Faculty: Computing and Informatics
+
+b. Tutor(title): NI
+
+c. Courses Detail: 					
+					a. 主修
+                  i) 机器人系统
+						ii) 机器人基础知识
+						iii) 人工智能导论
+						iv) 论文
+						v) 机器人研究技术与方法
+						vi) 机器视觉
+						vii) 人机交互
+					b. 选修
+						i) 仿生人工智能
+						ii) 智能信息系统
+						iii) 高级控制和动态
+						iv) 辅助机器人
+软机器人
+
+d. GRE V/W:  NI
+
+e. Toefl/IELTs: **总分6.5，阅读写作7.0，没有低于6.0的**
+
+f. Gpa: **最低成绩在85%以上，至少80， 西浦80以上**
+
+g. Due date: **12.1开始，5.1结束**
+
+h. major background: 工程、物理、数学或相关学科的二等以上荣誉学位
+
+i. more information:[专业网站](http://www.bristol.ac.uk/study/postgraduate/2021/eng/msc-robotics/)
+
+***
+
+咳咳，到了本次博客撰写的反思时间hhh。反思嘛咱好好用中文就好
 
 今天尝试用目录，照着其他教程在最前面加了个[toc]，结果在网页上居然原型现身了。这让我百思不得其解......然鹅我用**Typora**preview了一下，嗯？它就是目录的~~luan~~样啊？？？好吧废话不说了......
 
