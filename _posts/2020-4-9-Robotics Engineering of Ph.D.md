@@ -424,7 +424,7 @@ g. Due date: **11.1-12.15**
 
 h. major background: **180ETCS或者同等学位，电气工程和信息技术，计算机科学，机械工程，数学，物理等等**
 
-i. more information: **German (level C1).**
+i. more information: 
 
 j.links: [ Document of major ]( https://ethz.ch/content/dam/ethz/common/docs/master-profile/englisch/ingenieurwissenschaften/MSc-RSC-Appendix.pdf )
 
