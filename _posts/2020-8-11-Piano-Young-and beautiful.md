@@ -5,7 +5,7 @@ date: 2020-8-7
 excerpt: "It's the last piano piece played before leaving home. "
 tags: [jottings]
 comments: true
-post: true
+piano: true
 timeline: true
 ---
 
