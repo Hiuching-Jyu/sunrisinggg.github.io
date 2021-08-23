@@ -76,7 +76,27 @@ layout: compress
                 <div class="post-title">
                     <h1>Time-based Archiving</h1>
                     <h4>You can find <b>new<b/> articles here more easily.</h4>
-                    <h4>I have written 15 articles in 260 days! !(菜）</h4>
+                <div class="post-list">
+                    {% for post in site.posts %}
+                    {% if post.timeline %}
+                    <ul>
+                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">
+                                <p><h3>{{ post.title }} </h3></p>
+                                <p>Excerpt: {{ post.excerpt }}</p>
+                                <h5>{{ post.date | date_to_string }}</h5>
+                            </a>
+                        </li>
+                        <hr class="hr-line">
+                    </ul>
+                    {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="content">
+                <div class="post-title">
+                    <h1>Time-based Archiving</h1>
+                    <h4>You can find <b>new<b/> articles here more easily.</h4>
                 <div class="post-list">
                     {% for post in site.posts %}
                     {% if post.timeline %}
