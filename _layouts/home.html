@@ -65,36 +65,14 @@ layout: compress
                     <a class="btn zoombtn" href="{{ site.url }}/projects">
                         AI or others
                     </a>
+                    <a class="btn zoombtn" href="{{ site.url }}/photograpy">
+                        AI or others
+                    </a>
                 </h3>
             </div>
         </div>
     </header>
     {% include scripts.html %}
-    <header class="header" role="banner">
-        <div class="wrapper animated fadeIn">
-            <div class="content">
-                <div class="post-title">
-                    <h1>Time-based Archiving</h1>
-                    <h4>You can find <b>new<b/> articles here more easily.</h4>
-                <div class="post-list">
-                    {% for post in site.posts %}
-                    {% if post.timeline %}
-                    <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">
-                                <p><h3>{{ post.title }} </h3></p>
-                                <p>Excerpt: {{ post.excerpt }}</p>
-                                <h5>{{ post.date | date_to_string }}</h5>
-                            </a>
-                        </li>
-                        <hr class="hr-line">
-                    </ul>
-                    {% endif %}
-                    {% endfor %}
-                </div>
-            </div>
-        </div>
-    </header>
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
             <div class="content">
