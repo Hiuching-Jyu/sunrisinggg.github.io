@@ -5,6 +5,7 @@ date: 2021-8-13
 excerpt: "Introduction to ICP Algorithm basic"
 tags: [Notes,ROS]
 project: ture
+robotics: true
 timeline: true
 ---
 <script type="text/javascript" src="http://tajs.qq.com/stats?sId=66526224" charset="UTF-8"></script>

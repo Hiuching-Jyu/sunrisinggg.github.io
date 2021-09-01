@@ -5,6 +5,8 @@ date: 2021-9-1
 excerpt: "In qtcreator"
 tags: [Notes,C++]
 project: ture
+robotics: true
+comments: true
 timeline: true
 ---
 <script type="text/javascript" src="http://tajs.qq.com/stats?sId=66526224" charset="UTF-8"></script>

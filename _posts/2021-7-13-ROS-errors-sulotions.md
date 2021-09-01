@@ -3,9 +3,11 @@ layout: post
 title: "ROS Practice--Errors and Sulotions"
 date: 2021-7-13
 excerpt: "Errors and tips that often occur when running ROS for beginners."
-tags: [Notes,ROS]
+tags: [Notes,ROS,]
 project: ture
+comments: true
 timeline: true
+robotics: true
 ---
 <script type="text/javascript" src="http://tajs.qq.com/stats?sId=66526224" charset="UTF-8"></script>
 

@@ -7,6 +7,7 @@ tags: [jottings]
 comments: true
 timeline: true
 piano: true
+comments: true
 ---
 
 
