@@ -22,7 +22,7 @@ timeline: true
 
 4. 用与之前在QTCreator中引入.so动态共享库文件的方法一样，通过自定义库的形式把动态库链接到Project中。
 
-```
+```cmake
 add_library(<自定义的被链接库名> [SHARED] IMPORTED)
 set_target_properties(
     <自定义的被链接库名>
