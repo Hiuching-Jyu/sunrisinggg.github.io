@@ -5,7 +5,6 @@ date: 2021-8-21
 excerpt: "And I love you 3000"
 tags: [jottings]
 comments: true
-timeline: true
 piano: true
 ---
 

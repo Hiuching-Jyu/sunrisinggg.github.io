@@ -5,7 +5,6 @@ date: 2021-8-13
 excerpt: "Are you shining just for me?"
 tags: [jottings]
 comments: true
-timeline: true
 piano: true
 comments: true
 ---

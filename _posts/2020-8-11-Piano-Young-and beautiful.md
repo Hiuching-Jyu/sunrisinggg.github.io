@@ -6,7 +6,6 @@ excerpt: "It's the last piano piece played before leaving home. "
 tags: [jottings]
 comments: true
 piano: true
-timeline: true
 ---
 
 『It eluded us then, but that's no matter--tomorrow we will run faster, stretch out our arms farther......And one fine morning......』 —-The Great Gazby
