@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS Practice--Errors and Sulotions"
+title: "ROS Practice--Create-Workspace-and-packages."
 date: 2022-11-16
 excerpt: "Tutorial for creating workspace and package in ROS environment"
 tags: [Notes,ROS,]
